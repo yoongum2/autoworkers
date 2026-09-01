@@ -1,0 +1,219 @@
+[스토리보드] AI 해고 사유 1위 편
+장면 번호 / 대본 구간 / 화면 구성 / 자막 포인트 / 예상 시간 / Image Prompt
+
+
+장면 01
+대본 구간: "2026년 3월, 미국에서 한 달 만에 6만 620명이 잘렸습니다"
+화면 구성: 검은 배경에 숫자 60,620이 카운트업으로 올라가다 멈춤. 다른 요소 없음.
+자막 포인트: 60,620 (화면 정중앙 초대형)
+예상 시간: 0:00 - 0:12
+Image Prompt: pitch black background, single enormous white number rendered in a condensed sans-serif typeface, extreme minimalism, subtle film grain, cinematic, high contrast
+
+장면 02
+대본 구간: "해고 사유 1위가 뭐였는지 아세요? 경기 침체 아닙니다"
+화면 구성: 감원 사유 리스트가 세로로 뜨고, 경기 침체 / 구조조정 / 폐업 순서로 하나씩 붉은 선으로 그어짐.
+자막 포인트: 경기 침체? / 구조조정? / 폐업?
+예상 시간: 0:12 - 0:25
+Image Prompt: minimal dark dashboard interface with a vertical list of labels, each struck through with a thin red line, glowing edges, UI mockup style, muted palette
+
+장면 03
+대본 구간: "1위는 AI였습니다. 1만 5천 341명, 전체의 25%"
+화면 구성: 리스트 맨 위에 AI 항목이 파란 하이라이트로 등장. 옆에 15,341 / 25% 카운터.
+자막 포인트: 1위 AI · 15,341명 · 25%
+예상 시간: 0:25 - 0:40
+Image Prompt: dark data visualization, single glowing blue bar dwarfing gray bars beside it, clean chart aesthetic, editorial infographic style
+
+장면 04
+대본 구간: "3월부터 7월까지 다섯 달 연속 1위예요. 7월은 33%"
+화면 구성: 3월~7월 5개월 막대그래프가 왼쪽부터 순차적으로 차오름. 7월 막대만 다른 색.
+자막 포인트: 5개월 연속 1위
+예상 시간: 0:40 - 1:00
+Image Prompt: animated-looking bar chart across five months, ascending trend, final bar highlighted in warning amber, dark editorial background, data journalism style
+
+장면 05
+대본 구간: "여기까지 들으면 결론은 하나로 보이죠. 끝났다"
+화면 구성: 화면 완전 암전 후 흰 텍스트 한 줄만.
+자막 포인트: 끝났다.
+예상 시간: 1:00 - 1:08
+Image Prompt: total black frame with two small white words centered, dramatic negative space, minimal typography poster
+
+장면 06
+대본 구간: "정확히 정반대 지점에 도착했습니다"
+화면 구성: 화살표가 오른쪽으로 가다 급격히 반대로 꺾이는 그래픽. 인트로 타이틀 삽입 지점.
+자막 포인트: 그런데 데이터를 끝까지 봤더니
+예상 시간: 1:08 - 1:20
+Image Prompt: abstract arrow reversing direction sharply, geometric line art, dark background, cyan accent, motion graphic still
+
+장면 07
+대본 구간: "1월부터 7월까지 누적 11만 2천 713건 / 2025년 한 해 5만 4천 836건"
+화면 구성: 2025년 막대와 2026년 7개월 막대를 나란히 비교. 2026년 막대가 2배 넘게 김.
+자막 포인트: 7개월 만에 작년의 2배
+예상 시간: 1:20 - 2:10
+Image Prompt: side by side comparison bars, one dramatically taller, labeled 2025 and 2026, dark infographic, red and gray palette
+
+장면 08
+대본 구간: "기업이 공식 감원 발표서에 사유를 그렇게 적기 시작했다는 뜻입니다"
+화면 구성: 기업 공시 문서 클로즈업, 사유 칸에 AI라고 적힌 부분 확대.
+자막 포인트: 회사가 문서로 남긴 숫자
+예상 시간: 2:10 - 2:30
+Image Prompt: extreme close-up of an official corporate document, one printed field highlighted, shallow depth of field, desaturated office lighting, documentary photography
+
+장면 09
+대본 구간: "대졸 신입 실업률 5.6% / 전체 실업률 4.3%"
+화면 구성: 두 개의 선그래프가 교차하는 순간. 대졸 선이 전체 선 위로 올라가는 지점에 원 표시.
+자막 포인트: 방패가 뒤집혔다
+예상 시간: 2:30 - 3:10
+Image Prompt: two line graphs crossing over each other, crossover point circled, clean editorial chart, dark background, blue and red lines
+
+장면 10
+대본 구간: "22살에서 25살 사이 청년의 고용이 19% 낮게 나왔어요"
+화면 구성: 사람 아이콘 100개 격자, 그 중 19개가 회색으로 사라짐.
+자막 포인트: 19% 격차
+예상 시간: 3:10 - 3:35
+Image Prompt: grid of one hundred small human silhouette icons, nineteen of them faded to gray, isometric infographic, dark canvas
+
+장면 11 (핵심 비유)
+대본 구간: "맨 아래 첫 칸을 잘라내는 겁니다"
+화면 구성: 사다리 일러스트. 맨 아래 가로대가 사라지고, 위쪽 사람들은 그대로 서 있음.
+자막 포인트: 밀어 떨어뜨리는 게 아니라, 첫 칸을 없애는 것
+예상 시간: 3:35 - 4:20
+Image Prompt: tall ladder against dark void, the bottom rung missing and dissolving into particles, small silhouetted figures standing on upper rungs unaware, conceptual illustration, dramatic side lighting
+
+장면 12
+대본 구간: "10년 뒤의 실무 책임자인데, 그 칸이 없어졌으면 그 사람은 어디서 오는 걸까요"
+화면 구성: 빈 사무실 책상 한 줄. 의자만 있고 사람은 없음.
+자막 포인트: 미래의 시니어를 만들지 않기로 결정하는 중
+예상 시간: 4:20 - 4:50
+Image Prompt: row of empty office desks with vacant chairs, cold morning light through blinds, no people, melancholic corporate interior, wide shot
+
+장면 13
+대본 구간: "고용보험 가입자 1천 527만 5천 명 중 291만 6천 명, 19.1%"
+화면 구성: 한국 지도 실루엣 위에 도넛 차트 19.1% 오버레이.
+자막 포인트: 한국 근로자 5명 중 1명
+예상 시간: 4:50 - 5:20
+Image Prompt: silhouette map of South Korea with a clean donut chart overlaid, dark background, single accent color, minimal data visualization
+
+장면 14
+대본 구간: "소프트웨어 개발, 고객 서비스, 금융과 회계 / 대면 서비스, 돌봄, 몸을 쓰는 일"
+화면 구성: 화면 좌우 분할. 왼쪽 고노출 직종 아이콘 3개(붉은색), 오른쪽 저노출 직종 아이콘 3개(초록색).
+자막 포인트: 왼쪽 고노출 / 오른쪽 저노출
+예상 시간: 5:20 - 6:00
+Image Prompt: split screen composition, left side red-tinted icons of laptop headset calculator, right side green-tinted icons of caregiving hands wrench serving tray, flat icon design, dark background
+
+장면 15
+대본 구간: "20년 전에 저건 나중에 로봇이 다 할 거라고 했던 일들이 지금 가장 안전한 쪽에"
+화면 구성: 오래된 미래 예측 일러스트 느낌의 레트로 이미지에 X 표시.
+자막 포인트: 예측이 정반대로 빗나갔다
+예상 시간: 6:00 - 6:20
+Image Prompt: retro 1980s futurism illustration of household robots doing chores, faded print texture, a large X drawn over it, ironic tone
+
+장면 16
+대본 구간: "AI는 방아쇠는 맞는데, 총 전체는 아닙니다"
+화면 구성: 화면 중앙 텍스트만. 배경은 어둡게.
+자막 포인트: 방아쇠는 맞다. 총 전체는 아니다.
+예상 시간: 6:20 - 7:00
+Image Prompt: bold minimal typography card on charcoal background, single sentence centered, editorial quote card design
+
+장면 17 (반전 진입)
+대본 구간: "보통 이런 영상은 여기서 끝나죠"
+화면 구성: 가짜 엔딩 화면(구독 버튼, 다음 영상 카드)이 떴다가 글리치로 깨짐.
+자막 포인트: 그런데
+예상 시간: 7:00 - 7:20
+Image Prompt: fake video end screen with subscribe button and thumbnail cards, glitching and tearing apart digitally, chromatic aberration, dark
+
+장면 18
+대본 구간: "증강이 52%, 자동화가 45%"
+화면 구성: 두 막대가 경쟁하듯 자라다가 증강 막대가 자동화를 추월하는 순간 정지.
+자막 포인트: 증강 52% > 자동화 45%
+예상 시간: 7:20 - 8:10
+Image Prompt: two competing horizontal bars in a race, one overtaking the other, clean motion graphic still, teal versus orange, dark background
+
+장면 19
+대본 구간: "전체 직업의 약 49%가 업무의 4분의 1 이상을 AI로 처리해본 적이 있다"
+화면 구성: 직업 아이콘 격자에서 절반 가까이가 순차적으로 파랗게 점등.
+자막 포인트: 절반에 가까운 직업
+예상 시간: 8:10 - 8:40
+Image Prompt: grid of many occupation icons, nearly half illuminated in blue sequentially, dark technical background, systems diagram aesthetic
+
+장면 20 (반전 정점)
+대본 구간: "여섯 개 전부에서 이 사람들이 가장 낙관적이었습니다"
+화면 구성: 급여/고용안정성/이직/의미/자율성/상호작용 6개 항목이 세로로 뜨고, 전부 초록 화살표 위로.
+자막 포인트: 6개 항목 전부
+예상 시간: 8:40 - 9:30
+Image Prompt: six labeled rows each with an upward green arrow, dashboard scorecard layout, dark UI, satisfying alignment
+
+장면 21 (정직성 구간)
+대본 구간: "이건 상관관계지 인과관계가 아닙니다"
+화면 구성: 두 개의 점 그래프. 화살표가 양방향으로 표시되며 물음표.
+자막 포인트: 상관관계 ≠ 인과관계
+예상 시간: 9:30 - 10:00
+Image Prompt: scatter plot with a bidirectional arrow and a question mark between two variables, chalkboard-like clean diagram, muted colors
+
+장면 22
+대본 구간: "9천 200만 개가 사라지고 1억 7천만 개가 새로 생깁니다"
+화면 구성: 좌우 양팔 저울. 왼쪽 92, 오른쪽 170. 오른쪽으로 기욺.
+자막 포인트: 순증 7,800만
+예상 시간: 10:00 - 10:40
+Image Prompt: balance scale tipping to the right, numbers engraved on each pan, dark dramatic lighting, conceptual 3D render
+
+장면 23 (진짜 핵심)
+대본 구간: "핵심 역량의 39%가 5년 안에 쓸모없어진다"
+화면 구성: 39%가 화면을 채우고, 뒤 배경의 저울 그래픽이 흐려짐.
+자막 포인트: 39% · 5년
+예상 시간: 10:40 - 11:10
+Image Prompt: giant percentage figure in foreground with a blurred graphic behind it, depth of field, stark typography, dark editorial
+
+장면 24
+대본 구간: "사라지는 건 직업이 아니라, 그 직업을 해오던 방식입니다"
+화면 구성: 직업 아이콘은 그대로 있고, 그 안의 작은 업무 블록들만 하나씩 빠져나감.
+자막 포인트: 직업이 아니라 방식
+예상 시간: 11:10 - 11:50
+Image Prompt: single job icon shown as a container filled with small task blocks, several blocks lifting out and dissolving, exploded diagram style, dark background
+
+장면 25
+대본 구간: "오늘 한 일을 열 줄로 적고, AI가 할 수 있는 게 몇 줄인지 세보세요"
+화면 구성: 실제 노트에 열 줄을 적고 체크하는 손 촬영. 화면에 체크 애니메이션.
+자막 포인트: 실습 1. 업무 10줄 적기
+예상 시간: 11:50 - 12:40
+Image Prompt: overhead shot of a hand writing a numbered list of ten items in a notebook, warm desk lamp light, some lines check-marked, documentary style
+
+장면 26
+대본 구간: "뺏길 것 같은 줄을 뺏기기 전에 먼저 넘기세요"
+화면 구성: 사람 손에서 로봇 손으로 카드 몇 장을 건네주는 장면.
+자막 포인트: 실습 2. 먼저 넘기기
+예상 시간: 12:40 - 13:30
+Image Prompt: human hand passing a few cards to a robotic hand, clean studio lighting, symbolic handoff, minimal background
+
+장면 27
+대본 구간: "남는 건 이게 맞는지 판단하는 사람 자리입니다"
+화면 구성: 화면 가득한 AI 결과물 위에 사람이 빨간펜으로 표시하는 모습.
+자막 포인트: 만드는 사람에서 판단하는 사람으로
+예상 시간: 13:30 - 14:20
+Image Prompt: person reviewing dense machine-generated output on a large screen, marking corrections with a red pen, focused expression, cinematic office lighting
+
+장면 28 (정리)
+대본 구간: "그 데이터 옆에는 항상 다른 데이터가 놓여 있었어요"
+화면 구성: 앞서 나온 핵심 수치 카드 6개가 화면에 동시에 배치됨.
+자막 포인트: 25% / 19% / 19.1% / 52% / 49% / 39%
+예상 시간: 14:20 - 15:10
+Image Prompt: six data cards arranged in a clean grid, each showing a large percentage, dark dashboard aesthetic, unified design system
+
+장면 29 (CTA)
+대본 구간: "댓글에 직업 하나만 적어주세요"
+화면 구성: 화면 하단에 댓글창 UI 목업. 커서 깜빡임.
+자막 포인트: 댓글에 본인 직업 한 단어
+예상 시간: 15:10 - 15:40
+Image Prompt: mockup of a comment input box with blinking cursor, dark UI, inviting and clean, single accent color
+
+장면 30 (클로징)
+대본 구간: "구독이랑 알림 눌러두시면 다음 주에 바로"
+화면 구성: 다음 편 예고 썸네일 + 구독 버튼.
+자막 포인트: 다음 편 · AI 고노출 직종 명단
+예상 시간: 15:40 - 16:10
+Image Prompt: end screen layout with a next-episode thumbnail card and a subscribe button, dark theme, professional YouTube outro design
+
+
+비고
+전체 러닝타임은 낭독 속도에 따라 16분에서 20분 사이로 조정됩니다.
+장면 11(사다리)과 장면 20(6개 항목 전부)이 이 영상의 두 축입니다. 썸네일과 커뮤니티 게시물은 이 둘 중 하나에서 뽑는 것을 권장합니다.
+장면 17의 가짜 엔딩은 이탈 구간을 잡기 위한 장치라 반드시 7분대에 배치해야 효과가 있습니다.
