@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autoworkers-i2v"
+version = "0.1.0"
+description = "ComfyUI + Wan 2.2 I2V로 짧은 클립을 이어붙여 긴 영상을 만드는 로컬 파이프라인"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "Pillow>=10.0",
+    "numpy>=1.24",
+    "tomli>=2.0 ; python_version < '3.11'",
+]
+
+[project.scripts]
+i2v = "i2v.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

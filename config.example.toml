@@ -1,0 +1,102 @@
+# config.toml — `cp config.example.toml config.toml` 후 수정해서 쓰세요.
+
+[comfy]
+url = "http://127.0.0.1:8188"
+workflow = "workflows/wan22_i2v_gguf_api.json"
+timeout = 3600.0        # 클립 하나가 이 시간을 넘으면 중단
+poll_interval = 2.0
+
+[models]
+# ComfyUI에 실제로 설치된 파일명과 정확히 일치해야 합니다 (`python -m i2v check`로 확인).
+high_noise = "wan2.2_i2v_high_noise_14B_Q4_K_M.gguf"
+low_noise  = "wan2.2_i2v_low_noise_14B_Q4_K_M.gguf"
+clip       = "umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+vae        = "wan_2.1_vae.safetensors"
+
+[video]
+width  = 480            # 16의 배수. 세로 숏폼 480p. 12GB에서 720x1280은 빠듯합니다.
+height = 832
+fps    = 16             # Wan 2.2의 학습 프레임레이트
+clip_frames = 81        # 4n+1. 81프레임 @16fps → 겹침 1장 제외하고 정확히 5.0초
+target_seconds = 300.0
+trim_overlap = true     # 클립 경계에서 중복 프레임 1장 제거
+
+[sampling]
+steps = 20
+cfg = 3.5
+sampler = "euler"
+scheduler = "simple"
+shift = 8.0
+boundary = 0.5          # 스텝의 앞 50%는 high-noise, 뒤 50%는 low-noise 전문가
+seed = 12345
+seed_mode = "increment" # increment | fixed | random
+
+[speed]
+# Lightning / LightX2V 계열 distill LoRA. 켜면 6스텝·cfg 1.0으로 3~4배 빨라집니다.
+# 모션 다이내믹이 다소 줄어드는 대신 60클립 배치가 하룻밤에 끝납니다.
+enabled = false
+high_lora = "wan2.2_i2v_lightx2v_4step_lora_high.safetensors"
+low_lora  = "wan2.2_i2v_lightx2v_4step_lora_low.safetensors"
+strength = 1.0
+steps = 6
+cfg = 1.0
+
+[chain]
+color_anchor = 0.6      # 0.0~1.0. 이어붙일수록 밀리는 색을 샷 키프레임 쪽으로 되돌림
+reset_every = 0         # 0 = 하드 리셋 없음. N > 0이면 N클립마다 키프레임으로 복귀 (루프용)
+negative = "색조 왜곡, 정지 화면, 흐릿함, 디테일 뭉개짐, 자막, 워터마크, 로고, 손가락 기형, 저화질, JPEG 아티팩트, 밝기 깜빡임, 급격한 장면 전환"
+
+[paths]
+work = "work"           # 중간 산출물 + 재개용 state.json
+out  = "out"
+
+# ── 샷 리스트 ────────────────────────────────────────────────────────────
+# clips 합계 × 5.0초 = 최종 길이. 아래는 10샷 × 6클립 = 60클립 = 300초.
+# keyframe이 있으면 그 이미지에서 새로 시작하고, 없으면 앞 샷의 끝프레임에서 이어집니다.
+# 한 샷을 6클립(30초) 이하로 유지하면 체이닝 드리프트가 눈에 띄지 않습니다.
+
+[[shots]]
+keyframe = "images/01_dawn.png"
+clips = 6
+prompt = "새벽 안개가 깔린 호숫가, 수면 위로 옅은 물안개가 천천히 흐른다. 카메라가 아주 느리게 전진한다. 시네마틱 조명, 얕은 심도"
+
+[[shots]]
+keyframe = "images/02_sunrise.png"
+clips = 6
+prompt = "지평선 위로 해가 떠오르며 물빛이 주황색으로 물든다. 카메라가 위로 천천히 틸트업한다. 자연광, 부드러운 렌즈 플레어"
+
+[[shots]]
+clips = 6
+prompt = "같은 호숫가, 갈대가 바람에 흔들린다. 카메라가 오른쪽으로 천천히 팬한다"
+
+[[shots]]
+keyframe = "images/04_forest.png"
+clips = 6
+prompt = "숲길로 이어지는 오솔길, 나뭇잎 사이로 햇살이 부서진다. 카메라가 앞으로 미끄러지듯 이동한다"
+
+[[shots]]
+clips = 6
+prompt = "숲 안쪽, 공기 중에 먼지가 반짝인다. 카메라가 아주 느리게 전진하며 초점이 안쪽으로 옮겨간다"
+
+[[shots]]
+keyframe = "images/06_stream.png"
+clips = 6
+prompt = "이끼 낀 바위 사이를 흐르는 계곡물, 물살이 잔잔하게 부서진다. 고정 카메라, 자연광"
+
+[[shots]]
+clips = 6
+prompt = "계곡을 따라 카메라가 천천히 하류로 이동한다. 수면 반사광이 일렁인다"
+
+[[shots]]
+keyframe = "images/08_ridge.png"
+clips = 6
+prompt = "능선 위에서 내려다본 골짜기, 구름 그림자가 산비탈을 훑고 지나간다. 넓은 화각, 느린 드론 전진"
+
+[[shots]]
+clips = 6
+prompt = "해가 기울며 능선이 황금빛으로 물든다. 카메라가 아주 느리게 왼쪽으로 궤도를 그린다"
+
+[[shots]]
+keyframe = "images/10_dusk.png"
+clips = 6
+prompt = "해가 진 직후의 푸른 하늘, 첫 별이 나타난다. 고정 카메라, 아주 느린 구름의 움직임"

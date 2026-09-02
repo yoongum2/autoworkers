@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 파이프라인 산출물
+out/
+work/
+config.toml
+*.mp4
+!docs/**/*.mp4

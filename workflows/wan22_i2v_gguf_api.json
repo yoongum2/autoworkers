@@ -1,0 +1,109 @@
+{
+  "1": {
+    "class_type": "UnetLoaderGGUF",
+    "_meta": { "title": "High-noise expert (GGUF)" },
+    "inputs": { "unet_name": "wan2.2_i2v_high_noise_14B_Q4_K_M.gguf" }
+  },
+  "2": {
+    "class_type": "UnetLoaderGGUF",
+    "_meta": { "title": "Low-noise expert (GGUF)" },
+    "inputs": { "unet_name": "wan2.2_i2v_low_noise_14B_Q4_K_M.gguf" }
+  },
+  "3": {
+    "class_type": "ModelSamplingSD3",
+    "_meta": { "title": "Shift (high)" },
+    "inputs": { "model": ["1", 0], "shift": 8.0 }
+  },
+  "4": {
+    "class_type": "ModelSamplingSD3",
+    "_meta": { "title": "Shift (low)" },
+    "inputs": { "model": ["2", 0], "shift": 8.0 }
+  },
+  "5": {
+    "class_type": "CLIPLoader",
+    "_meta": { "title": "umt5-xxl text encoder" },
+    "inputs": { "clip_name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors", "type": "wan" }
+  },
+  "6": {
+    "class_type": "CLIPTextEncode",
+    "_meta": { "title": "Positive" },
+    "inputs": { "clip": ["5", 0], "text": "" }
+  },
+  "7": {
+    "class_type": "CLIPTextEncode",
+    "_meta": { "title": "Negative" },
+    "inputs": { "clip": ["5", 0], "text": "" }
+  },
+  "8": {
+    "class_type": "VAELoader",
+    "_meta": { "title": "Wan VAE" },
+    "inputs": { "vae_name": "wan_2.1_vae.safetensors" }
+  },
+  "9": {
+    "class_type": "LoadImage",
+    "_meta": { "title": "Start frame" },
+    "inputs": { "image": "start.png" }
+  },
+  "10": {
+    "class_type": "WanImageToVideo",
+    "_meta": { "title": "I2V conditioning" },
+    "inputs": {
+      "positive": ["6", 0],
+      "negative": ["7", 0],
+      "vae": ["8", 0],
+      "start_image": ["9", 0],
+      "width": 480,
+      "height": 832,
+      "length": 81,
+      "batch_size": 1
+    }
+  },
+  "11": {
+    "class_type": "KSamplerAdvanced",
+    "_meta": { "title": "Sampler A (high noise)" },
+    "inputs": {
+      "model": ["3", 0],
+      "add_noise": "enable",
+      "noise_seed": 0,
+      "steps": 20,
+      "cfg": 3.5,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "positive": ["10", 0],
+      "negative": ["10", 1],
+      "latent_image": ["10", 2],
+      "start_at_step": 0,
+      "end_at_step": 10,
+      "return_with_leftover_noise": "enable"
+    }
+  },
+  "12": {
+    "class_type": "KSamplerAdvanced",
+    "_meta": { "title": "Sampler B (low noise)" },
+    "inputs": {
+      "model": ["4", 0],
+      "add_noise": "disable",
+      "noise_seed": 0,
+      "steps": 20,
+      "cfg": 3.5,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "positive": ["10", 0],
+      "negative": ["10", 1],
+      "latent_image": ["11", 0],
+      "start_at_step": 10,
+      "end_at_step": 10000,
+      "return_with_leftover_noise": "disable"
+    }
+  },
+  "13": {
+    "class_type": "VAEDecode",
+    "_meta": { "title": "Decode" },
+    "inputs": { "samples": ["12", 0], "vae": ["8", 0] }
+  },
+  "14": {
+    "class_type": "SaveImage",
+    "_meta": { "title": "Frames out" },
+    "inputs": { "images": ["13", 0], "filename_prefix": "i2v/clip" }
+  }
+}
