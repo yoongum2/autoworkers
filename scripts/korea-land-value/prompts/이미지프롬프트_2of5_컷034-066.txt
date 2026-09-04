@@ -1,0 +1,44 @@
+이미지 프롬프트 2/5 (컷 034~066, 33장)
+각 줄이 컷 하나. 번호는 파일명(001.png)으로 그대로 사용. 대괄호는 영상 내 시작 시간.
+
+
+[장면 3. 물, 20억 년 화강암이 걸러낸 물]
+034 [4:04] Extreme close-up of pale granite rock face with crystal clear water seeping through a crack and dripping, moss patches, sunlight catching each droplet, macro photography, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+035 [4:09] Crystal clear mountain stream over smooth pebbles, water so transparent the stones are sharply visible, dappled forest light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+036 [4:16] Traditional Korean mountain spring with water flowing from a stone spout into a small basin, a hand holding a wooden ladle catching the water, dappled forest light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+037 [4:21] Close-up of a chrome European bathroom faucet crusted with white limescale deposits, hard water stains on the sink, harsh bathroom light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+038 [4:27] Stylized social media post card graphic with a large red diagonal strike-through line across it, floating on a dark background, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+039 [4:37] Old paper report cover stamped with the year 2003, dusty and slightly yellowed, lying on a dark desk under a single lamp, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+040 [4:47] A single clean glowing checkmark inside a thin circle, centered, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+
+[장면 4. 자리, 사계절과 조용한 땅]
+041 [4:51] Globe view centered on East Asia with a soft horizontal band highlighting the temperate mid-latitudes, the Korean Peninsula inside the band, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+042 [4:59] Four-panel grid of the same Korean mountain village in spring blossoms, summer green, autumn red maples, and winter snow, matching camera angle, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+043 [5:02] World map with only a thin mid-latitude band lit in warm gradient colors, tropics and polar regions dimmed, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+044 [5:11] World map heat-map of disaster risk, deep red high-risk zones in Southeast Asia fading to cool green low-risk regions, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+045 [5:22] Four minimal icons in a row, cracked ground, spiral storm, wave over house, dry sun, glowing softly, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+046 [5:27] Vertical ranking list graphic with three highlighted rows near the top, glowing markers, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+047 [5:34] Tectonic plate map of East Asia with the Pacific Ring of Fire glowing red along Japan and the Philippines, the Korean Peninsula sitting calmly inside the Eurasian plate, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+048 [5:44] Satellite view of a massive typhoon spiraling over the western Pacific, its path curving past the Philippines and Japan toward Korea, dramatic cloud swirl, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+049 [5:50] Calm Korean countryside at dusk, rice paddies reflecting a pastel sky, distant low mountains, still and quiet, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 5. 동해, 미니 대양]
+050 [6:01] Wide shot of dark blue waves crashing against rocky Korean coastal cliffs, spray in the air, dramatic overcast light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+051 [6:05] Map of the Korean Peninsula surrounded by three seas each tinted a distinctly different shade, deep indigo east, pale turquoise west, teal south, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+052 [6:14] Cross-section diagram of the East Sea showing dramatic depth, deep blue gradient darkening downward to near black, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+053 [6:21] Column of thirteen tiny stacked mountain silhouettes with a tower on top inside a deep blue sea cross-section, not reaching the seabed, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+054 [6:25] Tall vertical water column graphic with a thin line near the top marking 200 meters and the vast dark region below filling in, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+055 [6:32] Map of the East Sea basin enclosed by Korea, Japan and Russia, four narrow straits marked with small glowing gaps, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+056 [6:41] Side-view diagram of a shallow underwater sill at a strait, deep water on one side unable to pass over the raised threshold, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+057 [6:52] Stylized bowl-shaped cross-section of the East Sea basin, four narrow shallow openings at the rim, deep dark water trapped inside, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+058 [6:56] Underwater view descending from sunlit surface into pitch black abyss of the East Sea, shafts of light fading, particles drifting, vast and silent, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+059 [7:01] Ocean circulation diagram, cold surface water sinking at the north, flowing along the seabed and rising again, looping arrows in blue, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+060 [7:09] Winter East Sea surface in a snowstorm, steel gray water with white caps, snow blowing sideways, bitterly cold atmosphere, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+061 [7:16] Two circular clock-like rings side by side, a huge slow ring and a small fast ring, glowing blue, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+062 [7:24] Map of the East Sea with a vertical gradient from warm orange in the south to icy blue in the north, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+063 [7:28] Small glowing model of the East Sea basin floating beside a dim full globe, scale comparison, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+064 [7:37] Ocean research vessel on the open East Sea at dawn, scientists on deck lowering a cylindrical CTD instrument into dark water, cold steel gray sky, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 6. 서해, 9미터 조차와 세계 최대 조력발전]
+065 [7:43] Two vertical depth bars side by side, one extremely tall and dark, one tiny and pale, labeled by color only, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+066 [7:52] Time-lapse style wide shot of the West Sea coast, tide receding to reveal vast mud flats then rushing back, dramatic sky, long shadows, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark

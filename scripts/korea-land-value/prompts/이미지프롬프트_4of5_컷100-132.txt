@@ -1,0 +1,42 @@
+이미지 프롬프트 4/5 (컷 100~132, 33장)
+각 줄이 컷 하나. 번호는 파일명(001.png)으로 그대로 사용. 대괄호는 영상 내 시작 시간.
+
+
+[장면 10. 갯벌이 하는 일]
+100 [11:53] Close-up of a clear plastic sediment core tube held up against the sky, dark layered mud visible inside, muddy gloved hands, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+101 [12:00] Scientific cross-section illustration of tidal flat sediment layers with thick dark carbon-rich strata deep below the surface, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+102 [12:05] Dark carbon particles drifting down through blue-green water and settling onto a mud surface, soft glow, illustration, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+103 [12:13] Close-up of a scientific journal article page with graphs and a map of a coastline, blurred text, resting on a desk, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+104 [12:18] Aerial top-down view of an enormous parking lot packed with tens of thousands of cars in neat rows extending beyond the frame, hazy afternoon light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+105 [12:28] Two numeric-style glowing blocks side by side, the larger one crossed out in red, the smaller one highlighted green, no actual digits, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+106 [12:35] Forest fire on a Korean mountainside at night, orange flames and thick smoke rising, silhouettes of pine trees, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+107 [12:42] Calm dark tidal flat under deep blue dusk light, thin ribbons of water reflecting the sky, utterly still, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+108 [12:51] Group of long-legged shorebirds wading in shallow water on a Korean tidal flat, reflections, soft morning light, telephoto, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+109 [13:01] Macro shot of a small fiddler crab with one oversized claw on wet Korean mud flat, tiny air holes around it, shallow focus, soft daylight, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+110 [13:08] Small flat island surrounded by vast exposed tidal flats at low tide, seen from a high drone angle, thin channels of water glinting, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+111 [13:13] Dense flock of sandpipers and plovers resting on a mud flat, hundreds of small birds packed together, soft overcast light, telephoto, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+112 [13:22] Close-up of a tiny spoon-billed sandpiper standing on wet mud, distinctive flattened bill tip, shallow focus, soft light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+113 [13:26] Map of the western Pacific with a long glowing migration arc from Siberia and Alaska down through Korea to Australia and New Zealand, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+114 [13:33] Close-up of a single exhausted shorebird probing wet mud with its long bill on a Korean tidal flat, soft dawn light, telephoto, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+115 [13:42] Thousands of migratory shorebirds lifting off together from a Korean tidal flat at dawn, dense swirling flock against a pale pink and gold sky, wildlife documentary photography, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+116 [13:47] Aerial view of a tidal flat with a single glowing square grid cell overlaid on the mud, the rest dimmed, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+117 [13:56] Fisherwomen in wide hats harvesting clams and octopus on a glistening Korean mud flat, baskets and small sleds, late afternoon light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+118 [13:59] Four minimal icons in a row, fish, water filter drop, shield with wave, camera, glowing softly, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+
+[장면 11. 유네스코, 두 번의 인정]
+119 [14:06] Map of the southwestern coast of Korea with four tidal flat regions lighting up in gold one after another, elegant heritage emblem style, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+120 [14:14] Aerial view of Suncheon Bay tidal flat with circular reed islands and winding channels at sunset, iconic Korean wetland, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+121 [14:18] Diptych, left the volcanic tuff cone of Seongsan Ilchulbong on Jeju at sunrise, right a golden tidal flat, both in warm light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+122 [14:25] Close-up of an official document page with a highlighted paragraph, formal serif typography blurred, a fountain pen resting beside, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+123 [14:34] Group of surveyors in field vests walking across a wide tidal flat carrying clipboards and tripods, overcast sky, distant horizon, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+124 [14:37] Busan coastal skyline at dusk with a large modern convention center lit up along the waterfront, calm sea, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+125 [14:46] Large international conference hall with rows of delegates at curved desks, country name plates, a giant screen at the front, a gavel coming down at the podium, formal lighting, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+126 [14:49] The same southwestern Korea map, golden heritage zones expanding outward and merging into six larger glowing regions, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+127 [14:58] Delegates in a conference hall applauding, some standing, warm stage lighting, blurred flags in the background, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 12. 반전 하나, 편애받은 땅이 아니었다]
+128 [15:08] Four-panel grid of Korean landscapes, forest, spring water, deep sea, tidal flat, all in warm saturated light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+129 [15:17] Four-panel grid of Korean landscapes, forest, spring water, deep sea, tidal flat, colors draining to cold desaturated blue-gray, cinematic mood shift, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+130 [15:20] Black and white barren Korean hillside from the 1950s, faint and grainy, slowly fading in from black, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+131 [15:27] Close-up of weathered elderly Korean hands gently holding a small pine seedling with soil on the roots, soft overcast light, shallow depth of field, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+132 [15:35] Tall mature pine tree on a green hillside, an elderly person standing small beside its trunk looking up, soft light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark

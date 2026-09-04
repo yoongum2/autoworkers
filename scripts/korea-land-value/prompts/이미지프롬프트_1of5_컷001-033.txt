@@ -1,0 +1,42 @@
+이미지 프롬프트 1/5 (컷 001~033, 33장)
+각 줄이 컷 하나. 번호는 파일명(001.png)으로 그대로 사용. 대괄호는 영상 내 시작 시간.
+
+
+[장면 1. 훅]
+001 [0:00] Close-up of a foreign traveler's hand pointing at a paper map of South Korea spread on a wooden cafe table, coffee cup beside, warm window light, shallow depth of field, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+002 [0:06] Over-the-shoulder view of a person leaning over a paper map of Korea on a cafe table, face out of frame, fingertip resting on the peninsula, soft afternoon light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+003 [0:11] Two empty coffee cups on a wooden table beside a folded map, late afternoon sunlight through a window, quiet cafe mood, shallow depth of field, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+004 [0:18] Desk covered with printed reports, maps and sticky notes under a desk lamp at night, a laptop glowing, research atmosphere, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+005 [0:28] Outline map of South Korea alone glowing softly at center, thin measurement lines around it, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+006 [0:35] Flat map comparison, outline of the continental United States in dim gray with a tiny glowing outline of South Korea placed over Texas for scale, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+007 [0:44] Glowing 3D relief map of South Korea rising from darkness, mountain ranges, rivers and coastline lighting up in sequence, cinematic top-down angle, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+008 [0:51] Low angle shot of pedestrians' feet walking on a Korean city sidewalk at morning rush hour, motion blur, warm light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+009 [1:01] Four minimal glowing icons in a row, mountain, water drop, wave, and mud flat texture, evenly spaced, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+010 [1:06] A single large glowing question mark centered on a dark background, subtle light rays, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+011 [1:10] Frame split diagonally, one half a bright sunlit Korean landscape and the other half the same landscape in deep shadow, sharp dividing line, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 2. 산, 없던 숲을 만든 나라]
+012 [1:19] Aerial drone view over endless layers of dense green Korean mountain ridges at early morning, thin mist between valleys, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+013 [1:26] Four stylized forest silhouettes in a row decreasing slightly in height, each on a small podium, the fourth highlighted, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+014 [1:32] Black and white 1950s style photograph of barren eroded Korean hills with no trees, gullies carved by rain, dusty path, archival film grain, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+015 [1:42] Black and white photo of villagers carrying firewood bundles on wooden A-frame backpacks down a bare hillside dotted with tree stumps, 1950s Korea, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+016 [1:49] Close-up of hands feeding thin branches into a traditional Korean clay firebox under a cooking pot, smoke, dim winter light, sepia tone, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+017 [1:54] Split-screen before and after of the same Korean hillside, left half barren brown eroded slope in faded sepia, right half the identical slope covered in thick green pine forest today, seamless center line, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+018 [2:02] Two vertical bar chart columns made of stacked tree trunks, the taller one glowing green, the shorter one gray, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+019 [2:12] 1970s Korean government poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture, vintage illustration, 16:9, no text, no watermark
+020 [2:21] Map of South Korea with small green dots spreading outward from cities until the whole country is covered, animation still, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+021 [2:31] Close-up of a single black cylindrical Korean coal briquette with nineteen holes, resting on gray concrete, soft side light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+022 [2:35] Stacks of black coal briquettes piled in a narrow 1970s Korean alley, a wooden delivery cart, soft winter light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+023 [2:45] Rows of knee-high young pine seedlings on a formerly bare Korean hillside, fresh green against brown soil, spring light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+024 [2:49] Simple timeline bar from 1973 to 1982 with a glowing marker stopping early at 1978 and a filled progress bar overshooting its target, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+025 [2:59] Hundreds of people in 1970s Korean work clothes planting tiny pine seedlings in neat rows across a bare hillside, wide shot, overcast sky, documentary photograph feel, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+026 [3:07] Single human silhouette beside a dense cluster of small tree icons filling the frame, simple scale comparison, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+027 [3:12] Empty speaker podium with microphones in a large international assembly hall, soft formal lighting, shallow focus, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+028 [3:16] World map in dim gray with only South Korea glowing bright green, subtle radiating rings, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+029 [3:25] Aerial view of endless untouched Siberian taiga forest stretching to the horizon, cold blue light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+030 [3:33] Camera rising above a thick green Korean pine forest canopy into golden morning light, endless ridgelines behind, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 3. 물, 20억 년 화강암이 걸러낸 물]
+031 [3:38] Heavy monsoon rain falling on a misty Korean mountain forest, slow motion raindrops, dark green foliage glistening, moody atmospheric light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+032 [3:49] Rain streaming down a rounded pale granite boulder in a Korean mountain stream, wet stone texture, overcast light, macro, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+033 [3:54] Geological cross-section illustration of layered ancient bedrock, granite and gneiss bands, rainwater seeping down through fine cracks, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text

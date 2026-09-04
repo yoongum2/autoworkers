@@ -1,0 +1,46 @@
+이미지 프롬프트 3/5 (컷 067~099, 33장)
+각 줄이 컷 하나. 번호는 파일명(001.png)으로 그대로 사용. 대괄호는 영상 내 시작 시간.
+
+
+[장면 6. 서해, 9미터 조차와 세계 최대 조력발전]
+067 [7:56] Same harbor pier pillar shown at high tide with water near the top and at low tide fully exposed with barnacles, side by side, overcast coastal light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+068 [8:00] Silhouette of a three-story building beside a rising column of seawater reaching its roofline, simple scale comparison, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+069 [8:06] Enormous full supermoon rising over a dark calm West Sea horizon, moonlight path on the water, fishing boats silhouetted, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+070 [8:14] Aerial view of Sihwa Lake tidal power station, long straight seawall with ten turbine gates, seawater rushing through in white foam, golden hour, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+071 [8:20] Night aerial view of a mid-sized Korean city lighting up block by block, warm window lights spreading outward, viewed from high above, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+072 [8:28] Close-up of turbulent seawater surging through a massive concrete tidal gate, white foam and spray, powerful motion, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+073 [8:33] Murky greenish polluted lake surface with foam and dead fish near a concrete embankment, 1990s news footage look, grainy, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+074 [8:44] Clear blue water of Sihwa Lake today with open tidal gates in the distance, gulls flying, clean bright daylight, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+075 [8:55] Driving view along a long straight seawall road with sea on one side and lake on the other, late afternoon light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 7. 남해, 두 해류가 만드는 세계 최고 밀도]
+076 [8:58] Ocean current map illustration, a warm orange current sweeping up from the south and a cold blue current flowing down from the north colliding and swirling around the southern coast of Korea, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+077 [9:08] Aerial view of the South Sea archipelago of Korea, dozens of small green islands scattered on turquoise and deep blue water, soft haze, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+078 [9:13] Underwater scene in the South Sea of Korea, a school of silver fish passing rocky reef covered in colorful soft corals and kelp, sunlight rays from above, vibrant marine life, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+079 [9:21] Underwater close-up of a rocky reef where cold-water kelp and warm-water soft coral grow side by side, fish darting between, clear water, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+080 [9:26] Underwater view looking up toward the shimmering sunlit surface of the sea, bubbles rising, bright and hopeful, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+081 [9:29] World map with twenty five glowing dots marking ocean survey regions, thin connecting lines, scientific data visualization feel, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+082 [9:42] Marine biology laboratory with rows of glass specimen jars holding preserved sea creatures, a scientist in the background, cool lab lighting, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+083 [9:46] The world map with all twenty five survey dots pulsing softly, none highlighted yet, suspense, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+084 [9:54] The same world map now dimmed except the seas around the Korean Peninsula glowing bright gold, radiating light, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+085 [10:01] World map with Korea glowing gold and four other coastal regions lit in soft silver, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+
+[장면 8. 대국 비교]
+086 [10:06] Map of South Korea with three sea icons on each coast connected by a short glowing road line, compact and dense, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+087 [10:15] Flat map of the United States with a long dotted road route stretching from the Pacific coast to the Atlantic coast, tiny car icon, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+088 [10:22] Aerial view of a frozen Arctic coastline, cracked white sea ice meeting gray tundra, icy blue tones, vast and desolate, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+089 [10:28] Flat map of China with only its eastern coastline glowing, the vast interior dim, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+090 [10:32] Diptych, left panel a fiery sunrise over the calm East Sea horizon with rocky shore, right panel a soft orange sunset over West Sea mud flats, matching horizon lines, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+091 [10:41] Paper map of South Korea on a wooden table with small pebbles placed on it marking spots, warm light, shallow focus, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 9. 갯벌, 세계 5대]
+092 [10:47] Vast Korean tidal flat at low tide stretching to the horizon, intricate branching mud channel patterns reflecting a pale sky, wide aerial drone shot, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+093 [10:51] Three minimal icons in a row, shallow wave line, tall tide arrow, winding river, each lighting up in turn, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+094 [11:01] Aerial view of a wide muddy river mouth fanning out into the sea, brown sediment plumes swirling into pale green water, delta patterns, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+095 [11:09] World map with five coastal regions highlighted in amber, Europe North Sea, US east coast, Canada east coast, Amazon estuary, and Korea west coast, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+096 [11:15] Aerial view of the Wadden Sea tidal flats in Europe, gray-brown mud channels and sandbars under a pale northern sky, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+097 [11:22] Map of South Korea with the entire western and southern coastline fringed in rich brown tidal flat areas, glowing softly, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+098 [11:33] Four identical city outline shapes placed beside a larger brown tidal flat shape for size comparison, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+
+[장면 10. 갯벌이 하는 일]
+099 [11:42] Marine researchers in rubber boots and waders kneeling on a tidal flat, pushing a clear sediment core tube into dark mud, overcast sky, field science documentary, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark

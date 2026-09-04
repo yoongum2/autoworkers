@@ -1,0 +1,41 @@
+이미지 프롬프트 5/5 (컷 133~164, 32장)
+각 줄이 컷 하나. 번호는 파일명(001.png)으로 그대로 사용. 대괄호는 영상 내 시작 시간.
+
+
+[장면 12. 반전 하나, 편애받은 땅이 아니었다]
+133 [15:41] Dark storm clouds gathering low over a wide gray tidal flat, a thin line of light at the horizon, ominous, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+134 [15:45] Map of Korea's west coast with large red hatched zones marking vanished tidal flats and only a thin brown fringe remaining, stark contrast, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+135 [15:56] Circular brown shape with one third breaking away and crumbling into red fragments, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+136 [16:02] Massive coastal construction site with dump trucks and dredgers piling rock into the sea, gray water, industrial haze, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+137 [16:11] Aerial view of the Saemangeum seawall, a perfectly straight concrete line dividing brown dry reclaimed land from the open gray sea, stretching to the horizon, overcast sky, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+138 [16:21] Cracked dry mud of a former tidal flat behind a seawall, scattered bleached clam shells, no water in sight, harsh flat light, somber, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+139 [16:26] Large golden shape beside a red shape about a quarter of its size, simple area comparison, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+140 [16:35] Wide aerial view of Sihwa Lake seawall at dusk, tidal gates open with water flowing through, half the frame lake and half sea, contemplative mood, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+141 [16:43] Split image, left a murky polluted lake shoreline in grainy 1990s tones, right the same shoreline today with clear water and a tidal power plant, seamless center, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+142 [16:54] Two satellite images of the same Yellow Sea coastline side by side, 1980s with wide brown tidal flats and 2010s with straight seawalls and reclaimed land, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+143 [17:02] Two downward-pointing bar shapes, one modest and gray, one nearly twice as long and red, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+144 [17:10] Narrow strip of tidal flat squeezed between a concrete seawall and the sea, viewed from above, muted colors, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+145 [17:15] Aerial view of old earthen dikes and rice paddies along the Ganghwa Island coast, patchwork fields meeting the sea, soft light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+146 [17:18] Ancient Korean manuscript page with vertical brush calligraphy on aged hanji paper, soft candlelight, shallow focus, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+147 [17:28] Split image, left a lone farmer with a wooden shovel on an earthen dike in sepia, right a giant modern excavator on a concrete seawall, stark contrast, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 13. 반전 둘, 아직 조용한 땅]
+148 [17:35] Large water drop shape dividing into many tiny droplets over a dense crowd of small human icons, minimal, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+149 [17:46] Twelve vertical bars with two towering in the middle and the rest tiny, blue gradient, minimal bar chart shape, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+150 [17:55] Cracked dry reservoir bed with a stranded small boat, receding water line visible on the far bank, harsh midday sun, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+151 [18:00] Tectonic plate map of East Asia, the Korean Peninsula sitting inside the Eurasian plate, cool calm blue tones, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+152 [18:04] Tectonic map of East Asia, the Korean Peninsula inside the Eurasian plate pulsing with a faint orange warning glow, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+153 [18:13] Tectonic map of East Asia with large arrows pressing inward on the Korean Peninsula from the Indian plate in the west and the Pacific plate in the east, faults glowing faintly orange, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+154 [18:23] Cracked exterior wall of a Korean apartment building with fallen bricks on the ground, overcast light, aftermath of an earthquake, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+155 [18:27] Pure black background with a single thin white horizontal line of light in the center, minimalist, cinematic void, subtle film grain, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+
+[장면 14. 클로징]
+156 [18:32] Golden hour aerial shot where dense green Korean forest slopes meet a shimmering tidal flat coastline, warm hopeful light, cinematic wide shot, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+157 [18:42] Triptych of Korean landscapes in warm light, a dense pine forest, a tidal power seawall at sunset, and a golden tidal flat with birds, unified color grade, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+158 [18:52] World map in soft gray with South Korea alone glowing warm gold, gentle light spreading outward, clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
+159 [18:58] Same wooden cafe table with the paper map of South Korea, now a Korean hand pointing at the west coast, two coffee cups, warm late afternoon window light, shallow depth of field, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+160 [19:02] Close-up of a Korean hand resting on a paper map of the west coast of Korea, sunset light through a cafe window casting long warm shadows, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+161 [19:13] Lone fisherwoman silhouette pushing a small sled across glistening Korean mud flats at sunset, long reflection, orange and purple sky, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+162 [19:23] Long line of dump trucks driving along an unfinished seawall into the sea at dusk, construction dust, 1990s documentary feel, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+163 [19:32] Aerial view of the Saemangeum seawall at dusk with dramatic clouds, moody teaser atmosphere, space left on both sides for overlay elements, cinematic wide shot, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+164 [19:36] Soft-focus golden tidal flat at dusk with a calm sky, large empty areas left for end-screen overlays, warm and quiet, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
