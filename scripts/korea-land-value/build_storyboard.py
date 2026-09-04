@@ -3,6 +3,7 @@
 SPM = 290
 STYLE_PHOTO = "photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark"
 STYLE_INFO = "clean flat infographic style, dark navy background, soft glow accents, 16:9, no text"
+STYLE_ILLUS = "vintage illustration, 16:9, no text, no watermark"
 
 # (장면 제목, [ (대본, 화면 구성, 자막, 이미지 프롬프트, 스타일) ])
 S = []
@@ -37,7 +38,7 @@ S.append(("산, 없던 숲을 만든 나라", [
  "Split-screen before and after of the same Korean hillside, left half barren brown eroded slope in faded sepia, right half the identical slope covered in thick green pine forest today, seamless center line", "P"),
 ("어떻게 했을까요. 1973년에 정부가 치산녹화 10개년 계획이라는 걸 세웁니다. 목표는 딱 하나, 전 국토의 녹화. 산림청을 내무부 밑으로 옮겨서 전국 행정조직을 전부 나무 심는 데 동원했어요.",
  "1970년대 관공서 벽에 붙은 녹화 포스터 느낌의 그래픽, 지도 위에 조림 구역이 퍼져 나감", "1973년, 치산녹화 10개년 계획",
- "1970s Korean government propaganda poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture", "P"),
+ "1970s Korean government propaganda poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture", "L"),
 ("그리고 진짜 중요한 걸 같이 했어요. 연탄이에요. 나무를 못 베게 막기만 하면 사람들은 얼어 죽어요. 그래서 무연탄을 대량으로 캐서 농촌까지 보급했어요. 땔감이 필요 없어지니까 산이 살아난 거예요.",
  "연탄 쌓인 골목, 연탄 배달 리어카, 아궁이에 연탄 넣는 손", "무연탄 보급, 땔감 수요 소멸",
  "Stacks of black cylindrical Korean coal briquettes with holes, piled in a narrow 1970s alley, a delivery cart, soft winter light", "P"),
@@ -273,7 +274,9 @@ sb.append(f"6단계. 스토리보드 ({len(S)}장면, {len(cuts)}컷, 총 {ts(to
 sb.append("형식: 컷 번호 / 대본 구간 / 화면 구성 / 자막 포인트 / 예상 시간 / Image Prompt")
 sb.append("컷 시간은 대본 음절 수를 분당 290음절로 환산하고 컷마다 전환 여유 1초를 더해 계산했다. 나레이션 속도가 다르면 전체가 비례해서 늘거나 줄어든다.")
 sb.append(f"이미지 생성 시 실사 컷(P)은 프롬프트 뒤에 다음 문구를 붙인다: {STYLE_PHOTO}")
-sb.append(f"지도와 인포그래픽 컷(I)은 다음 문구를 붙인다: {STYLE_INFO}\n")
+sb.append(f"지도와 인포그래픽 컷(I)은 다음 문구를 붙인다: {STYLE_INFO}")
+sb.append(f"일러스트 컷(L)은 다음 문구를 붙인다: {STYLE_ILLUS}")
+sb.append("컷 2와 컷 63은 같은 검은 화면이므로 이미지 하나를 재사용한다.\n")
 n=0
 for si,title,s0,s1 in scene_ranges:
     sb.append(f"\n장면 {si}. {title} ({ts(s0)}~{ts(s1)})\n")

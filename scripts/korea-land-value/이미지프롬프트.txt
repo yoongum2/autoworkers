@@ -1,4 +1,5 @@
 스토리보드 이미지 프롬프트 (67컷, 스타일 문구 포함, 복사해서 바로 사용)
+컷 02와 컷 63은 같은 이미지를 재사용한다.
 
 
 장면 1. 훅
@@ -14,7 +15,7 @@
 06 [1:16] Aerial drone view over endless layers of dense green Korean mountain ridges at early morning, thin mist between valleys, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
 07 [1:29] Black and white 1950s style photograph of barren eroded Korean hills with no trees, a few villagers carrying firewood bundles on wooden A-frame backpacks, dusty path, archival film grain, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
 08 [1:50] Split-screen before and after of the same Korean hillside, left half barren brown eroded slope in faded sepia, right half the identical slope covered in thick green pine forest today, seamless center line, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
-09 [2:08] 1970s Korean government propaganda poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+09 [2:08] 1970s Korean government propaganda poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture, vintage illustration, 16:9, no text, no watermark
 10 [2:26] Stacks of black cylindrical Korean coal briquettes with holes, piled in a narrow 1970s alley, a delivery cart, soft winter light, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
 11 [2:43] Hundreds of people in 1970s Korean work clothes planting tiny pine seedlings in neat rows across a bare hillside, wide shot, overcast sky, documentary photograph feel, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
 12 [3:05] Camera rising above a thick green Korean pine forest canopy into golden morning light, endless ridgelines behind, photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
