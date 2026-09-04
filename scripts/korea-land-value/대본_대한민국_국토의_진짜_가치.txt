@@ -125,190 +125,384 @@
 그러니까 이 땅의 진짜 가치는 이거예요. 신이 준 게 아니라, 망가졌던 걸 다시 살려낸 기록이 있는 땅이라는 거. 숲을 없던 데서 만들어 봤고, 썩은 호수를 발전소로 바꿔 봤고, 갯벌도 반이 사라진 뒤에 남은 걸 세계유산으로 지켜냈어요. 그 세 가지를 다 해본 나라, 저는 다른 나라를 못 찾았어요. 그 미국 친구한테 이제 대답할 수 있을 것 같아요. 작은데 많이 들어 있는 게 아니라, 작으니까 하나도 버리지 않고 다 살려 쓴 거라고요. 그리고 아직 다 살린 건 아니라고요. 여러분은 우리 땅에서 가장 아까운 게 뭐라고 생각하세요. 댓글로 남겨 주시면 다음 영상에서 그 주제로 찾아보겠습니다. 다음 영상에서는 이 갯벌 810제곱킬로미터가 사라지던 10년 동안 무슨 일이 있었는지, 새만금의 진짜 이야기를 다뤄 볼게요. 구독하시면 놓치지 않고 보실 수 있어요. 오늘도 봐 주셔서 감사합니다.
 
 
-6단계. 스토리보드 (14장면, 67컷, 총 18:55)
+6단계. 스토리보드 (14장면, 164컷, 총 19:43)
 
-형식: 컷 번호 / 대본 구간 / 화면 구성 / 자막 포인트 / 예상 시간 / Image Prompt
-컷 시간은 대본 음절 수를 분당 290음절로 환산하고 컷마다 전환 여유 1초를 더해 계산했다. 나레이션 속도가 다르면 전체가 비례해서 늘거나 줄어든다.
-이미지 생성 시 실사 컷(P)은 프롬프트 뒤에 다음 문구를 붙인다: photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
+형식: 컷 번호 (스타일) / 대본 구간 / 화면 구성 / 자막 포인트 / 예상 시간 / Image Prompt
+컷 시간은 대본 음절 수를 분당 290음절로 환산하고 컷마다 전환 여유 0.7초를 더해 계산했다. 컷 하나는 5~8초를 목표로 문장 단위로 나눴다. 나레이션 속도가 다르면 전체가 비례해서 늘거나 줄어든다.
+실사 컷(P)은 프롬프트 뒤에 다음 문구를 붙인다: photorealistic, cinematic documentary style, 16:9, muted natural color grade, no text, no watermark
 지도와 인포그래픽 컷(I)은 다음 문구를 붙인다: clean flat infographic style, dark navy background, soft glow accents, 16:9, no text
 일러스트 컷(L)은 다음 문구를 붙인다: vintage illustration, 16:9, no text, no watermark
-컷 2와 컷 63은 같은 검은 화면이므로 이미지 하나를 재사용한다.
+숫자와 자막은 이미지에 넣지 않고 편집에서 올린다. 지도 컷은 AI 생성 시 국경선이 틀릴 수 있어 실제 지도 위에 그래픽을 얹는 방식을 권한다.
 
 
-장면 1. 훅 (0:00~1:16)
+장면 1. 훅 (0:00~1:19)
 
-컷 1 (P) / 미국에서 온 친구가 한국 지도를 한참 보다가 이렇게 물었어요. 이 나라는 왜 이렇게 작은데 이렇게 많은 게 들어 있냐고. / 카페 테이블 위 펼쳐진 한국 지도, 외국인 손이 지도를 가리킴, 얼굴은 프레임 밖 / 자막: 자막 없음 / 0:00~0:11 / Image Prompt: Close-up of a foreign traveler's hand pointing at a paper map of South Korea spread on a wooden cafe table, coffee cup beside, warm window light, shallow depth of field
+컷 1 (P) / 미국에서 온 친구가 한국 지도를 한참 보다가 이렇게 물었어요. / 카페 테이블 위 한국 지도, 외국인 손이 지도를 가리킴 / 자막: 자막 없음 / 0:00~0:06 / Image Prompt: Close-up of a foreign traveler's hand pointing at a paper map of South Korea spread on a wooden cafe table, coffee cup beside, warm window light, shallow depth of field
 
-컷 2 (P) / 저는 그때 웃으면서 넘겼어요. 그냥 외국인이 하는 덕담이라고 생각했거든요. 그런데 이 영상을 준비하면서 자료를 하나씩 찾아보다가 알게 됐습니다. 그 친구 말이 그냥 덕담이 아니었다는 걸요. / 화면 검게 전환, 질문 문장만 흰 글씨로 타이핑 효과 / 자막: 왜 이렇게 작은데 이렇게 많은 게 들어 있어? / 0:11~0:28 / Image Prompt: Pure black background with a single thin white horizontal line of light in the center, minimalist, cinematic void, subtle film grain
+컷 2 (P) / 이 나라는 왜 이렇게 작은데 이렇게 많은 게 들어 있냐고. / 지도 위로 카메라가 천천히 내려감, 얼굴은 프레임 밖 / 자막: 왜 이렇게 작은데, 이렇게 많은 게? / 0:06~0:11 / Image Prompt: Over-the-shoulder view of a person leaning over a paper map of Korea on a cafe table, face out of frame, fingertip resting on the peninsula, soft afternoon light
 
-컷 3 (I) / 한반도 남쪽, 딱 10만 제곱킬로미터. 세계에서 109번째 크기예요. 미국의 백분의 일도 안 되는 땅입니다. 서울에서 부산까지 KTX로 두 시간 반이면 가는 나라예요. / 미국 지도 위에 한반도 남쪽이 작게 얹혀 크기 비교, 숫자 카운터 / 자막: 100,363제곱킬로미터, 세계 109위, 미국의 100분의 1 / 0:28~0:42 / Image Prompt: Flat map comparison, outline of the continental United States in dim gray with a tiny glowing outline of South Korea placed over Texas for scale
+컷 3 (P) / 저는 그때 웃으면서 넘겼어요. 그냥 외국인이 하는 덕담이라고 생각했거든요. / 빈 커피잔 두 개, 창밖 빛 / 자막: 자막 없음 / 0:11~0:18 / Image Prompt: Two empty coffee cups on a wooden table beside a folded map, late afternoon sunlight through a window, quiet cafe mood, shallow depth of field
 
-컷 4 (I) / 그런데 이 땅에, 미국이 대륙 전체에 펼쳐놓은 것들이 한 번에 들어가 있습니다. 오늘은 우리가 매일 밟고 있는데도 한 번도 제대로 계산해 본 적 없는 이 땅의 진짜 가치를 숫자로 따져 보겠습니다. / 한반도 3D 지형도가 어둠에서 떠오르고 산맥, 강, 해안선이 차례로 켜짐 / 자막: 국토의 진짜 가치 / 0:42~0:59 / Image Prompt: Glowing 3D relief map of South Korea rising from darkness, mountain ranges, rivers and coastline lighting up in sequence, cinematic top-down angle
+컷 4 (P) / 그런데 이 영상을 준비하면서 자료를 하나씩 찾아보다가 알게 됐습니다. 그 친구 말이 그냥 덕담이 아니었다는 걸요. / 책상 위 자료 더미, 노트북, 형광펜 / 자막: 덕담이 아니었다 / 0:18~0:28 / Image Prompt: Desk covered with printed reports, maps and sticky notes under a desk lamp at night, a laptop glowing, research atmosphere
 
-컷 5 (I) / 산, 물, 세 개의 바다, 그리고 갯벌. 이 순서로 갈 거예요. 그리고 마지막에 반전이 하나 있습니다. 제목에 신이 편애했다고 써놨는데, 사실 그 말은 절반만 맞아요. 나머지 절반은 끝까지 보시면 알아요. / 산, 물, 바다, 갯벌 아이콘 네 개가 순서대로 켜지고 마지막에 물음표 / 자막: 산 / 물 / 세 바다 / 갯벌 / 그리고 반전 / 0:59~1:16 / Image Prompt: Four minimal glowing icons in a row, mountain, water drop, wave, and mud flat texture, with a question mark appearing at the end
+컷 5 (I) / 한반도 남쪽, 딱 10만 제곱킬로미터. 세계에서 109번째 크기예요. / 한반도 남쪽 지도 등장, 숫자 카운터 / 자막: 100,363제곱킬로미터, 세계 109위 / 0:28~0:35 / Image Prompt: Outline map of South Korea alone glowing softly at center, thin measurement lines around it, minimal
 
+컷 6 (I) / 미국의 백분의 일도 안 되는 땅입니다. 서울에서 부산까지 KTX로 두 시간 반이면 가는 나라예요. / 미국 지도 위에 한반도 겹치기, 이어서 KTX 질주 / 자막: 미국의 100분의 1, 서울-부산 2시간 30분 / 0:35~0:44 / Image Prompt: Flat map comparison, outline of the continental United States in dim gray with a tiny glowing outline of South Korea placed over Texas for scale
 
-장면 2. 산, 없던 숲을 만든 나라 (1:16~3:29)
+컷 7 (I) / 그런데 이 땅에, 미국이 대륙 전체에 펼쳐놓은 것들이 한 번에 들어가 있습니다. / 한반도 3D 지형도가 어둠에서 떠오름 / 자막: 자막 없음 / 0:44~0:51 / Image Prompt: Glowing 3D relief map of South Korea rising from darkness, mountain ranges, rivers and coastline lighting up in sequence, cinematic top-down angle
 
-컷 6 (P) / 먼저 산부터 갈게요. 우리나라 국토의 63퍼센트가 숲입니다. 629만 헥타르. OECD 국가 중에 4위예요. 핀란드, 스웨덴, 일본 다음이 우리예요. / 울창한 산맥 드론 광각, 오른쪽에 63퍼센트 원형 게이지, OECD 순위 4개 국기 / 자막: 산림 63퍼센트, OECD 4위 / 1:16~1:29 / Image Prompt: Aerial drone view over endless layers of dense green Korean mountain ridges at early morning, thin mist between valleys
+컷 8 (P) / 오늘은 우리가 매일 밟고 있는데도 한 번도 제대로 계산해 본 적 없는 이 땅의 진짜 가치를 숫자로 따져 보겠습니다. / 출근길 보도블록 밟는 발, 이어서 숫자들이 화면에 떠오름 / 자막: 국토의 진짜 가치 / 0:51~1:01 / Image Prompt: Low angle shot of pedestrians' feet walking on a Korean city sidewalk at morning rush hour, motion blur, warm light
 
-컷 7 (P) / 그런데 이게 원래 이랬던 게 아니에요. 1953년, 전쟁이 끝난 직후 사진을 보면 산이 다 벌거숭이예요. 일제강점기에 수탈당하고, 전쟁 때 불타고, 남은 나무는 땔감으로 다 베어 썼거든요. 겨울에 난방을 하려면 나무밖에 없었으니까요. / 흑백 톤, 나무 없는 민둥산과 지게 진 사람들 / 자막: 1953년 / 1:29~1:50 / Image Prompt: Black and white 1950s style photograph of barren eroded Korean hills with no trees, a few villagers carrying firewood bundles on wooden A-frame backpacks, dusty path, archival film grain
+컷 9 (I) / 산, 물, 세 개의 바다, 그리고 갯벌. 이 순서로 갈 거예요. / 산, 물, 바다, 갯벌 아이콘 네 개 순서대로 켜짐 / 자막: 산 / 물 / 세 바다 / 갯벌 / 1:01~1:06 / Image Prompt: Four minimal glowing icons in a row, mountain, water drop, wave, and mud flat texture, evenly spaced
 
-컷 8 (P) / 그때 우리 산에 서 있던 나무의 양을 1이라고 치면, 지금은 29입니다. 29배예요. 헥타르당 나무 부피로 따지면 165세제곱미터인데, OECD 평균이 131이에요. 우리가 평균을 넘어섰다는 거예요. / 같은 산의 좌우 분할, 왼쪽 1953 민둥산, 오른쪽 현재 숲. 숫자 1이 29로 커지고 이어서 막대그래프 165 대 131 / 자막: 1 → 29 / 한국 165, OECD 평균 131 / 1:50~2:08 / Image Prompt: Split-screen before and after of the same Korean hillside, left half barren brown eroded slope in faded sepia, right half the identical slope covered in thick green pine forest today, seamless center line
+컷 10 (I) / 그리고 마지막에 반전이 하나 있습니다. / 아이콘 끝에 물음표 등장 / 자막: 그리고 반전 / 1:06~1:10 / Image Prompt: A single large glowing question mark centered on a dark background, subtle light rays, minimal
 
-컷 9 (L) / 어떻게 했을까요. 1973년에 정부가 치산녹화 10개년 계획이라는 걸 세웁니다. 목표는 딱 하나, 전 국토의 녹화. 산림청을 내무부 밑으로 옮겨서 전국 행정조직을 전부 나무 심는 데 동원했어요. / 1970년대 관공서 벽에 붙은 녹화 포스터 느낌의 그래픽, 지도 위에 조림 구역이 퍼져 나감 / 자막: 1973년, 치산녹화 10개년 계획 / 2:08~2:26 / Image Prompt: 1970s Korean government propaganda poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture
+컷 11 (P) / 제목에 신이 편애했다고 써놨는데, 사실 그 말은 절반만 맞아요. 나머지 절반은 끝까지 보시면 알아요. / 화면이 대각선으로 절반은 밝고 절반은 어둡게 갈라짐 / 자막: 절반만 맞아요 / 1:10~1:19 / Image Prompt: Frame split diagonally, one half a bright sunlit Korean landscape and the other half the same landscape in deep shadow, sharp dividing line
 
-컷 10 (P) / 그리고 진짜 중요한 걸 같이 했어요. 연탄이에요. 나무를 못 베게 막기만 하면 사람들은 얼어 죽어요. 그래서 무연탄을 대량으로 캐서 농촌까지 보급했어요. 땔감이 필요 없어지니까 산이 살아난 거예요. / 연탄 쌓인 골목, 연탄 배달 리어카, 아궁이에 연탄 넣는 손 / 자막: 무연탄 보급, 땔감 수요 소멸 / 2:26~2:43 / Image Prompt: Stacks of black cylindrical Korean coal briquettes with holes, piled in a narrow 1970s alley, a delivery cart, soft winter light
 
-컷 11 (P) / 10년 계획이었는데 6년 만인 1978년에 목표를 넘겼어요. 108만 헥타르에 나무를 심었습니다. 1973년부터 2013년까지 심은 나무를 다 합치면 65억 그루예요. 국민 한 사람당 130그루씩 심은 셈이에요. / 수백 명이 산비탈에 줄지어 묘목 심는 모습, 카운터 65억 / 자막: 1978년 조기 달성, 108만 헥타르, 65억 그루 / 2:43~3:05 / Image Prompt: Hundreds of people in 1970s Korean work clothes planting tiny pine seedlings in neat rows across a bare hillside, wide shot, overcast sky, documentary photograph feel
+장면 2. 산, 없던 숲을 만든 나라 (1:19~3:38)
 
-컷 12 (P) / 유엔 식량농업기구가 이렇게 평가했어요. 2차 세계대전 이후 황폐해진 산림을 완전히 복구한 나라는 지구상에 한국 하나뿐이라고. 미국도 러시아도 숲이 넓죠. 근데 그건 원래 있던 거고요. 우리는 없던 걸 만들어낸 거예요. 이 차이는 뒤에서 다시 얘기할 거니까 기억해 두세요. / 카메라가 숲 위로 상승, 세계지도에 한국만 초록으로 켜짐 / 자막: 전후 산림 복구 성공, 세계 유일 / 3:05~3:29 / Image Prompt: Camera rising above a thick green Korean pine forest canopy into golden morning light, endless ridgelines behind
+컷 12 (P) / 먼저 산부터 갈게요. 우리나라 국토의 63퍼센트가 숲입니다. 629만 헥타르. / 울창한 산맥 드론 광각, 63퍼센트 원형 게이지 / 자막: 산림 63퍼센트, 629만 헥타르 / 1:19~1:26 / Image Prompt: Aerial drone view over endless layers of dense green Korean mountain ridges at early morning, thin mist between valleys
 
+컷 13 (I) / OECD 국가 중에 4위예요. 핀란드, 스웨덴, 일본 다음이 우리예요. / 국기 네 개 순위표 / 자막: OECD 4위 / 1:26~1:32 / Image Prompt: Four stylized forest silhouettes in a row decreasing slightly in height, each on a small podium, the fourth highlighted
 
-장면 3. 물, 20억 년 화강암이 걸러낸 물 (3:29~4:39)
+컷 14 (P) / 그런데 이게 원래 이랬던 게 아니에요. 1953년, 전쟁이 끝난 직후 사진을 보면 산이 다 벌거숭이예요. / 흑백 톤, 나무 없는 민둥산 / 자막: 1953년 / 1:32~1:42 / Image Prompt: Black and white 1950s style photograph of barren eroded Korean hills with no trees, gullies carved by rain, dusty path, archival film grain
 
-컷 13 (P) / 다음은 물이에요. 우리나라 연평균 강수량이 1,300밀리미터입니다. 세계 평균의 1.6배예요. 비가 많이 오는 나라예요. / 장마철 산에 비 쏟아지는 슬로모션, 빗줄기 위로 숫자 / 자막: 연 1,300밀리미터, 세계 평균 1.6배 / 3:29~3:40 / Image Prompt: Heavy monsoon rain falling on a misty Korean mountain forest, slow motion raindrops, dark green foliage glistening, moody atmospheric light
+컷 15 (P) / 일제강점기에 수탈당하고, 전쟁 때 불타고, 남은 나무는 땔감으로 다 베어 썼거든요. / 지게에 땔감 진 사람들, 잘린 그루터기 / 자막: 수탈, 전쟁, 땔감 / 1:42~1:49 / Image Prompt: Black and white photo of villagers carrying firewood bundles on wooden A-frame backpacks down a bare hillside dotted with tree stumps, 1950s Korea
 
-컷 14 (P) / 그리고 이 비가 화강암과 편마암 위로 떨어져요. 한반도의 기반암 중에는 20억 년 가까이 된 아주 오래되고 단단한 암석이 있는데, 이게 천연 필터 역할을 해요. 빗물이 바위 틈을 천천히 지나면서 걸러지는 거예요. / 화강암 절벽 클로즈업, 바위 틈으로 물이 스며들어 나오는 매크로 / 자막: 화강암, 편마암, 약 20억 년 / 3:40~3:59 / Image Prompt: Extreme close-up of pale granite rock face with crystal clear water seeping through a crack and dripping, moss patches, sunlight catching each droplet, macro photography
+컷 16 (P) / 겨울에 난방을 하려면 나무밖에 없었으니까요. / 초가집 아궁이에 나무 넣는 손, 연기 / 자막: 자막 없음 / 1:49~1:54 / Image Prompt: Close-up of hands feeding thin branches into a traditional Korean clay firebox under a cooking pot, smoke, dim winter light, sepia tone
 
-컷 15 (P) / 그래서 우리나라 산에서 나오는 물이 그냥 마셔도 될 정도로 깨끗한 거예요. 산마다 약수터가 있는 나라, 생각보다 흔하지 않습니다. 유럽 여행 가서 수돗물 석회 때문에 고생해 본 분들은 아실 거예요. / 산속 약수터, 바가지로 물 받아 마시는 손. 짧게 유럽 세면대의 석회 자국 인서트 / 자막: 산마다 약수터 / 3:59~4:16 / Image Prompt: Traditional Korean mountain spring with water flowing from a stone spout into a small basin, a hand holding a wooden ladle catching the water, dappled forest light
+컷 17 (P) / 그때 우리 산에 서 있던 나무의 양을 1이라고 치면, 지금은 29입니다. 29배예요. / 숫자 1이 29로 커지는 카운터, 배경은 같은 산의 좌우 분할 / 자막: 1 → 29 / 1:54~2:02 / Image Prompt: Split-screen before and after of the same Korean hillside, left half barren brown eroded slope in faded sepia, right half the identical slope covered in thick green pine forest today, seamless center line
 
-컷 16 (I) / 여기서 하나 바로잡을게요. 인터넷에 한국 수돗물 UN 세계 8위라는 말이 많이 돌아요. 이거 정확하지 않습니다. 2003년 유네스코 보고서에 나온 수질 관리 종합 순위고, 마시는 물 순위가 아니에요. 20년도 더 된 자료예요. 이 영상에서는 확인된 것만 말씀드릴게요. / 인터넷 게시글 캡처 느낌의 그래픽에 빨간 취소선, 2003 보고서 표지 이미지 / 자막: 수돗물 UN 8위? 2003년 수질관리 종합 순위, 마시는 물 순위 아님 / 4:16~4:39 / Image Prompt: Stylized illustration of an old paper report cover stamped with the year 2003, a red diagonal line across a viral social media post graphic
+컷 18 (I) / 헥타르당 나무 부피로 따지면 165세제곱미터인데, OECD 평균이 131이에요. 우리가 평균을 넘어섰다는 거예요. / 막대그래프 165 대 131 / 자막: 한국 165 / OECD 평균 131 / 2:02~2:12 / Image Prompt: Two vertical bar chart columns made of stacked tree trunks, the taller one glowing green, the shorter one gray
 
+컷 19 (L) / 어떻게 했을까요. 1973년에 정부가 치산녹화 10개년 계획이라는 걸 세웁니다. / 1970년대 녹화 포스터 느낌 그래픽 / 자막: 1973년, 치산녹화 10개년 계획 / 2:12~2:21 / Image Prompt: 1970s Korean government poster style illustration of citizens planting trees on a hillside, bold retro colors, slightly faded paper texture
 
-장면 4. 자리, 사계절과 조용한 땅 (4:39~5:46)
+컷 20 (I) / 목표는 딱 하나, 전 국토의 녹화. 산림청을 내무부 밑으로 옮겨서 전국 행정조직을 전부 나무 심는 데 동원했어요. / 지도 위에 조림 구역이 시군 단위로 퍼져 나감 / 자막: 전 국토의 녹화 / 2:21~2:31 / Image Prompt: Map of South Korea with small green dots spreading outward from cities until the whole country is covered, animation still
 
-컷 17 (P) / 이 땅이 어디에 놓여 있는지도 봐야 해요. 한반도는 중위도 온대 기후대에 있어요. 봄 여름 가을 겨울이 다 뚜렷하죠. 이게 당연한 게 아니에요. 지구상에 사계절이 이렇게 또렷한 땅은 생각보다 좁은 띠 안에만 있어요. / 같은 산의 사계절 4분할, 이어서 지구 위 온대 띠 하이라이트 / 자막: 중위도 온대, 사계절 / 4:39~4:58 / Image Prompt: Four-panel grid of the same Korean mountain village in spring blossoms, summer green, autumn red maples, and winter snow, matching camera angle
+컷 21 (P) / 그리고 진짜 중요한 걸 같이 했어요. 연탄이에요. / 연탄 클로즈업 / 자막: 연탄 / 2:31~2:35 / Image Prompt: Close-up of a single black cylindrical Korean coal briquette with nineteen holes, resting on gray concrete, soft side light
 
-컷 18 (I) / 그리고 재해요. 독일 구호단체가 매년 193개 나라의 자연재해 위험도를 계산해서 발표하는 세계위험지수라는 게 있어요. 지진, 태풍, 홍수, 가뭄 위험을 다 합친 거예요. / 세계지도 위험도 색상 지도, 붉은색에서 초록색 그라데이션 / 자막: 세계위험지수, 193개국 / 4:58~5:13 / Image Prompt: World map heat-map of disaster risk, deep red high-risk zones in Southeast Asia fading to cool green low-risk regions
+컷 22 (P) / 나무를 못 베게 막기만 하면 사람들은 얼어 죽어요. 그래서 무연탄을 대량으로 캐서 농촌까지 보급했어요. / 탄광 갱도, 이어서 연탄 배달 리어카 / 자막: 무연탄 대량 보급 / 2:35~2:45 / Image Prompt: Stacks of black coal briquettes piled in a narrow 1970s Korean alley, a wooden delivery cart, soft winter light
 
-컷 19 (I) / 1위가 필리핀이에요. 4년 연속이요. 옆 나라 일본은 17위, 미국은 21위. 한국은요, 49위예요. 화산도 없고, 환태평양 지진대에서도 벗어나 있어요. 한반도는 유라시아판 안쪽에 있거든요. / 순위표 애니메이션 필리핀 1, 일본 17, 미국 21, 한국 49. 이어서 판 경계 지도에서 한반도가 판 안쪽에 위치 / 자막: 필리핀 1위, 일본 17위, 미국 21위, 한국 49위 / 5:13~5:31 / Image Prompt: Tectonic plate map of East Asia with the Pacific Ring of Fire glowing red along Japan and the Philippines, the Korean Peninsula sitting calmly inside the Eurasian plate
+컷 23 (P) / 땔감이 필요 없어지니까 산이 살아난 거예요. / 민둥산에 어린 묘목이 줄지어 자라는 장면 / 자막: 자막 없음 / 2:45~2:49 / Image Prompt: Rows of knee-high young pine seedlings on a formerly bare Korean hillside, fresh green against brown soil, spring light
 
-컷 20 (P) / 태풍은 오지만 필리핀이나 일본이 한 번 걸러준 뒤에 와요. 물론 홍수랑 폭우는 있어요. 그래도 이웃 나라들이랑 비교하면 확실히 조용한 자리예요. 이것도 뒤에서 한 번 더 다룰게요. / 위성 태풍 경로 지도, 필리핀과 일본을 지나 약해지며 한반도 접근 / 자막: 이웃이 먼저 걸러주는 자리 / 5:31~5:46 / Image Prompt: Satellite view of a massive typhoon spiraling over the western Pacific, its path curving past the Philippines and Japan toward Korea, dramatic cloud swirl
+컷 24 (I) / 10년 계획이었는데 6년 만인 1978년에 목표를 넘겼어요. 108만 헥타르에 나무를 심었습니다. / 타임라인 1973에서 1978, 목표 108퍼센트 달성 그래픽 / 자막: 1978년 조기 달성, 108만 헥타르 / 2:49~2:59 / Image Prompt: Simple timeline bar from 1973 to 1982 with a glowing marker stopping early at 1978 and a filled progress bar overshooting its target
 
+컷 25 (P) / 1973년부터 2013년까지 심은 나무를 다 합치면 65억 그루예요. / 수백 명이 산비탈에 줄지어 묘목 심는 모습, 카운터 65억 / 자막: 65억 그루 / 2:59~3:07 / Image Prompt: Hundreds of people in 1970s Korean work clothes planting tiny pine seedlings in neat rows across a bare hillside, wide shot, overcast sky, documentary photograph feel
 
-장면 5. 동해, 미니 대양 (5:46~7:23)
+컷 26 (I) / 국민 한 사람당 130그루씩 심은 셈이에요. / 한 사람 실루엣 옆에 나무 130그루가 채워짐 / 자막: 1인당 130그루 / 3:07~3:12 / Image Prompt: Single human silhouette beside a dense cluster of small tree icons filling the frame, simple scale comparison
 
-컷 21 (I) / 이제 바다로 가볼게요. 여기서부터가 진짜예요. 우리나라는 삼면이 바다잖아요. 그건 다 아는데, 이 세 바다가 완전히 다른 바다라는 건 잘 모르시죠. / 한반도 지도, 동해 서해 남해가 서로 다른 색으로 물듦 / 자막: 동해, 서해, 남해 / 5:46~5:59 / Image Prompt: Map of the Korean Peninsula surrounded by three seas each tinted a distinctly different shade, deep indigo east, pale turquoise west, teal south
+컷 27 (P) / 유엔 식량농업기구가 이렇게 평가했어요. / 유엔 회의장 느낌, 연단과 마이크 / 자막: 유엔 식량농업기구 / 3:12~3:16 / Image Prompt: Empty speaker podium with microphones in a large international assembly hall, soft formal lighting, shallow focus
 
-컷 22 (I) / 동해요. 평균 수심이 1,684미터예요. 가장 깊은 곳은 3,762미터. 서울 남산을 열세 개 쌓아도 안 닿아요. 동해 바닷물의 89퍼센트가 수심 200미터보다 아래에 있어요. / 동해 단면도, 남산 실루엣 13개가 쌓여도 바닥에 못 닿는 애니메이션 / 자막: 평균 1,684미터, 최대 3,762미터, 89퍼센트가 200미터 아래 / 5:59~6:16 / Image Prompt: Cross-section diagram of the East Sea showing dramatic depth, a column of thirteen tiny stacked mountain silhouettes with a tower on top not reaching the seabed, deep blue gradient darkening downward
+컷 28 (I) / 2차 세계대전 이후 황폐해진 산림을 완전히 복구한 나라는 지구상에 한국 하나뿐이라고. / 세계지도에 한국만 초록으로 켜짐 / 자막: 전후 산림 복구 성공, 세계 유일 / 3:16~3:25 / Image Prompt: World map in dim gray with only South Korea glowing bright green, subtle radiating rings
 
-컷 23 (I) / 왜 이렇게 됐을까요. 동해는 바깥 바다로 나가는 출구가 네 개밖에 없어요. 대한해협, 쓰가루, 소야, 타타르. 그런데 이 출구가 전부 폭이 좁고 수심이 200미터도 안 돼요. 그러니까 200미터 아래 깊은 물은 밖으로 못 나가요. 거대한 그릇에 갇혀 있는 거예요. / 동해 지도에 네 개 해협이 표시되고, 그릇 모양 단면 그래픽으로 심층수가 갇힌 모습 / 자막: 출구 4개, 모두 수심 200미터 미만 / 6:16~6:39 / Image Prompt: Stylized bowl-shaped cross-section of the East Sea basin, four narrow shallow openings at the rim, deep dark water trapped inside
+컷 29 (P) / 미국도 러시아도 숲이 넓죠. 근데 그건 원래 있던 거고요. 우리는 없던 걸 만들어낸 거예요. / 시베리아 원시림 항공, 이어서 한국 인공림 항공 대비 / 자막: 원래 있던 숲 / 만들어낸 숲 / 3:25~3:33 / Image Prompt: Aerial view of endless untouched Siberian taiga forest stretching to the horizon, cold blue light
 
-컷 24 (P) / 그래서 해양학자들은 동해를 미니 대양이라고 불러요. 태평양 같은 큰 바다에서 일어나는 심층수 순환이 동해 안에서도 똑같이 일어나거든요. 표층의 물이 겨울에 차가워져서 가라앉고, 바닥을 돌아서 다시 올라오는 순환이요. / 동해 수중, 표층에서 심층으로 내려가는 물 흐름 화살표 애니메이션 / 자막: 미니 대양 / 6:39~6:58 / Image Prompt: Underwater view descending from sunlit surface into pitch black abyss of the East Sea, shafts of light fading, particles drifting, vast and silent
+컷 30 (P) / 이 차이는 뒤에서 다시 얘기할 거니까 기억해 두세요. / 카메라가 숲 위로 상승 / 자막: 기억해 두세요 / 3:33~3:38 / Image Prompt: Camera rising above a thick green Korean pine forest canopy into golden morning light, endless ridgelines behind
 
-컷 25 (P) / 다른 대양은 이 순환이 천 년에서 이천 년 걸리는데, 동해는 백 년이면 한 바퀴 돌아요. 게다가 남쪽은 아열대, 북쪽은 아한대예요. 지구 바다에서 일어나는 일을 스무 배 빠른 속도로 보여주는 축소판이 우리 집 앞에 있는 거예요. 그래서 전 세계 해양학자들이 기후변화 연구하려고 동해로 옵니다. / 해양조사선 갑판, 연구원이 관측장비 내리는 장면 / 자막: 대양 1,000~2,000년 / 동해 100년 / 6:58~7:23 / Image Prompt: Ocean research vessel on the open East Sea at dawn, scientists on deck lowering a cylindrical CTD instrument into dark water, cold steel gray sky
 
+장면 3. 물, 20억 년 화강암이 걸러낸 물 (3:38~4:51)
 
-장면 6. 서해, 9미터 조차와 세계 최대 조력발전 (7:23~8:34)
+컷 31 (P) / 다음은 물이에요. 우리나라 연평균 강수량이 1,300밀리미터입니다. 세계 평균의 1.6배예요. 비가 많이 오는 나라예요. / 장마철 산에 비 쏟아지는 슬로모션 / 자막: 연 1,300밀리미터, 세계 평균 1.6배 / 3:38~3:49 / Image Prompt: Heavy monsoon rain falling on a misty Korean mountain forest, slow motion raindrops, dark green foliage glistening, moody atmospheric light
 
-컷 26 (P) / 서해는 정반대예요. 평균 수심이 40미터 정도. 얕아요. 동해 평균 수심의 40분의 1이에요. 대신 물이 하루에 두 번 엄청나게 들고 나가요. / 동해와 서해 수심 비교 막대, 이어서 서해 갯벌 조수 타임랩스 / 자막: 평균 수심 약 40미터, 하루 두 번 / 7:23~7:36 / Image Prompt: Time-lapse style wide shot of the West Sea coast, tide receding to reveal vast mud flats then rushing back, dramatic sky, long shadows
+컷 32 (P) / 그리고 이 비가 화강암과 편마암 위로 떨어져요. / 빗물이 화강암 바위 표면을 타고 흐름 / 자막: 화강암, 편마암 / 3:49~3:54 / Image Prompt: Rain streaming down a rounded pale granite boulder in a Korean mountain stream, wet stone texture, overcast light, macro
 
-컷 27 (P) / 인천 앞바다 조차가 최대 9미터가 넘어요. 3층 건물 높이만큼 바다가 오르락내리락하는 거예요. 추석 무렵 슈퍼문이 뜨면 10미터까지 벌어져요. 세계적으로 조차가 큰 바다로 꼽혀요. / 부두 기둥에 물 높이 표시, 같은 기둥의 만조와 간조 비교, 3층 건물 실루엣 겹치기 / 자막: 인천 조차 최대 9미터, 슈퍼문 10미터 / 7:36~7:53 / Image Prompt: Same harbor pier pillar shown at high tide with water near the top and at low tide fully exposed with barnacles, side by side, overcast coastal light
+컷 33 (I) / 한반도의 기반암 중에는 20억 년 가까이 된 아주 오래되고 단단한 암석이 있는데, 이게 천연 필터 역할을 해요. / 지질 단면 그래픽, 화강암 편마암 층 / 자막: 약 20억 년 / 3:54~4:04 / Image Prompt: Geological cross-section illustration of layered ancient bedrock, granite and gneiss bands, rainwater seeping down through fine cracks
 
-컷 28 (P) / 이 힘으로 뭘 하냐면, 시화호에 세계 최대 조력발전소를 돌려요. 254메가와트, 1년에 552기가와트시. 인구 50만 도시 하나가 쓰는 전기예요. 바닷물이 밀려오고 빠져나가는 것만으로요. / 시화호 조력발전소 항공 뷰, 수문 클로즈업에서 도시 야경으로 디졸브 / 자막: 시화호 조력발전소, 세계 최대, 254메가와트, 인구 50만 도시 / 7:53~8:11 / Image Prompt: Aerial view of Sihwa Lake tidal power station, long straight seawall with ten turbine gates, seawater rushing through in white foam, golden hour
+컷 34 (P) / 빗물이 바위 틈을 천천히 지나면서 걸러지는 거예요. / 바위 틈으로 물이 스며 나오는 매크로 / 자막: 자막 없음 / 4:04~4:09 / Image Prompt: Extreme close-up of pale granite rock face with crystal clear water seeping through a crack and dripping, moss patches, sunlight catching each droplet, macro photography
 
-컷 29 (P) / 원래 시화호는 1990년대에 방조제로 막았다가 물이 썩어서 시궁창 냄새가 난다고 전국 뉴스에 나오던 곳이에요. 그걸 수문을 열고 발전소를 얹어서 1년에 바닷물 1억 4,500만 톤을 안팎으로 갈아 넣는 정화 장치로 바꿨어요. 이 얘기도 나중에 다시 나옵니다. / 1990년대 뉴스 화면 느낌의 오염된 호수, 이어서 현재 맑아진 시화호 / 자막: 1990년대 오염 → 연 1억 4,500만 톤 해수 순환 / 8:11~8:34 / Image Prompt: Murky greenish polluted lake surface with foam and dead fish near a concrete embankment, 1990s news footage look, grainy
+컷 35 (P) / 그래서 우리나라 산에서 나오는 물이 그냥 마셔도 될 정도로 깨끗한 거예요. / 계곡의 맑은 물, 바닥 자갈이 보임 / 자막: 자막 없음 / 4:09~4:16 / Image Prompt: Crystal clear mountain stream over smooth pebbles, water so transparent the stones are sharply visible, dappled forest light
 
+컷 36 (P) / 산마다 약수터가 있는 나라, 생각보다 흔하지 않습니다. / 산속 약수터, 바가지로 물 받는 손 / 자막: 산마다 약수터 / 4:16~4:21 / Image Prompt: Traditional Korean mountain spring with water flowing from a stone spout into a small basin, a hand holding a wooden ladle catching the water, dappled forest light
 
-장면 7. 남해, 두 해류가 만드는 세계 최고 밀도 (8:34~9:39)
+컷 37 (P) / 유럽 여행 가서 수돗물 석회 때문에 고생해 본 분들은 아실 거예요. / 유럽식 세면대 수도꼭지의 석회 자국, 전기포트 바닥 석회 / 자막: 석회 / 4:21~4:27 / Image Prompt: Close-up of a chrome European bathroom faucet crusted with white limescale deposits, hard water stains on the sink, harsh bathroom light
 
-컷 30 (I) / 남해는 또 달라요. 남쪽에서 따뜻한 대마난류가 올라오고, 북쪽에서 차가운 북한한류가 내려와서 여기서 만나요. 계절마다 어느 쪽이 세냐에 따라 바다 성격이 바뀌어요. / 지도 위 주황 난류와 파랑 한류 화살표가 남해에서 충돌 / 자막: 대마난류, 북한한류 / 8:34~8:49 / Image Prompt: Ocean current map illustration, a warm orange current sweeping up from the south and a cold blue current flowing down from the north colliding and swirling around the southern coast of Korea
+컷 38 (I) / 여기서 하나 바로잡을게요. 인터넷에 한국 수돗물 UN 세계 8위라는 말이 많이 돌아요. 이거 정확하지 않습니다. / 인터넷 게시글 그래픽에 빨간 취소선 / 자막: 수돗물 UN 8위? 정확하지 않음 / 4:27~4:37 / Image Prompt: Stylized social media post card graphic with a large red diagonal strike-through line across it, floating on a dark background
 
-컷 31 (P) / 찬물을 따라 내려온 물고기랑 따뜻한 물을 타고 올라온 물고기가 한 바다에 섞이는 거예요. 한 바다에서 두 기후대의 생물을 동시에 보는 거죠. / 수중 촬영, 다양한 어종 몽타주 3연속 빠른 컷 / 자막: 자막 없음 / 8:49~9:02 / Image Prompt: Underwater scene in the South Sea of Korea, a school of silver fish passing rocky reef covered in colorful soft corals and kelp, sunlight rays from above, vibrant marine life
+컷 39 (P) / 2003년 유네스코 보고서에 나온 수질 관리 종합 순위고, 마시는 물 순위가 아니에요. 20년도 더 된 자료예요. / 2003 보고서 표지 이미지, 먼지 쌓인 문서 / 자막: 2003년 수질관리 종합 순위 / 4:37~4:47 / Image Prompt: Old paper report cover stamped with the year 2003, dusty and slightly yellowed, lying on a dark desk under a single lamp
 
-컷 32 (I) / 그래서 이런 결과가 나옵니다. 2000년부터 2010년까지 전 세계 과학자 2,700명이 10년 동안 바다 생물을 센 해양생물센서스라는 게 있어요. 인류 역사상 가장 큰 해양 생물 조사예요. / 세계지도 위에 조사 해역 25곳이 점으로 켜짐 / 자막: 해양생물센서스 2000~2010, 과학자 2,700명 / 9:02~9:21 / Image Prompt: World map with twenty five glowing dots marking ocean survey regions, thin connecting lines, scientific data visualization feel
+컷 40 (I) / 이 영상에서는 확인된 것만 말씀드릴게요. / 체크마크 그래픽 / 자막: 확인된 것만 / 4:47~4:51 / Image Prompt: A single clean glowing checkmark inside a thin circle, centered, minimal
 
-컷 33 (I) / 조사한 25개 해역 중에서 면적에 비해 사는 생물 종이 가장 많은 바다가 어디였을까요. 한국이었어요. 좁은 바다에 이렇게 많은 종이 사는 곳이 없었다는 거예요. 중국, 남아프리카, 발트해, 멕시코만이 그 뒤였어요. / 한국 해역만 금색으로 켜지고 뒤이어 2~5위 지역이 은색으로 / 자막: 면적 대비 생물 종 수 세계 최고 / 9:21~9:39 / Image Prompt: The same world map now dimmed except the seas around the Korean Peninsula glowing bright gold, radiating light
 
+장면 4. 자리, 사계절과 조용한 땅 (4:51~6:01)
 
-장면 8. 대국 비교 (9:39~10:19)
+컷 41 (I) / 이 땅이 어디에 놓여 있는지도 봐야 해요. 한반도는 중위도 온대 기후대에 있어요. / 지구 위 온대 띠 하이라이트, 한반도 위치 / 자막: 중위도 온대 / 4:51~4:59 / Image Prompt: Globe view centered on East Asia with a soft horizontal band highlighting the temperate mid-latitudes, the Korean Peninsula inside the band
 
-컷 34 (I) / 정리해 볼게요. 깊은 바다, 얕은 바다, 두 해류가 만나는 바다. 이 세 개가 자동차로 반나절 거리 안에 다 있어요. / 한반도 지도 위에 세 바다 아이콘과 자동차 이동 경로 / 자막: 반나절 거리 / 9:39~9:49 / Image Prompt: Map of South Korea with three sea icons on each coast connected by a short glowing road line, compact and dense
+컷 42 (P) / 봄 여름 가을 겨울이 다 뚜렷하죠. / 같은 산골 마을 사계절 4분할 / 자막: 사계절 / 4:59~5:02 / Image Prompt: Four-panel grid of the same Korean mountain village in spring blossoms, summer green, autumn red maples, and winter snow, matching camera angle
 
-컷 35 (P) / 미국은 태평양과 대서양이 있지만 차로 닷새를 달려야 반대편 바다를 봐요. 러시아는 해안선은 길지만 대부분 일 년의 절반이 얼어 있어요. 중국은 바다가 동쪽 한 면에만 있어요. / 미국 횡단 경로 애니메이션, 러시아 결빙 해안 실사, 중국 동쪽 해안만 하이라이트 3연속 / 자막: 닷새 / 결빙 / 한 면 / 9:49~10:04 / Image Prompt: Aerial view of a frozen Arctic coastline, cracked white sea ice meeting gray tundra, icy blue tones, vast and desolate
+컷 43 (I) / 이게 당연한 게 아니에요. 지구상에 사계절이 이렇게 또렷한 땅은 생각보다 좁은 띠 안에만 있어요. / 세계지도에 사계절 뚜렷한 지역만 좁은 띠로 표시 / 자막: 좁은 띠 / 5:02~5:11 / Image Prompt: World map with only a thin mid-latitude band lit in warm gradient colors, tropics and polar regions dimmed
 
-컷 36 (P) / 우리는 아침에 동해에서 해 보고 저녁에 서해에서 해 지는 걸 봐요. 강릉에서 인천까지 세 시간이에요. 이게 그 미국 친구가 말한 거였어요. 없는 게 아니라, 다 모여 있는 거. / 좌우 분할, 왼쪽 동해 일출, 오른쪽 서해 일몰 / 자막: 아침 동해, 저녁 서해 / 10:04~10:19 / Image Prompt: Diptych, left panel a fiery sunrise over the calm East Sea horizon with rocky shore, right panel a soft orange sunset over West Sea mud flats, matching horizon lines
+컷 44 (I) / 그리고 재해요. 독일 구호단체가 매년 193개 나라의 자연재해 위험도를 계산해서 발표하는 세계위험지수라는 게 있어요. / 세계 위험도 색상 지도 / 자막: 세계위험지수, 193개국 / 5:11~5:22 / Image Prompt: World map heat-map of disaster risk, deep red high-risk zones in Southeast Asia fading to cool green low-risk regions
 
+컷 45 (I) / 지진, 태풍, 홍수, 가뭄 위험을 다 합친 거예요. / 네 가지 재해 아이콘 / 자막: 지진 / 태풍 / 홍수 / 가뭄 / 5:22~5:27 / Image Prompt: Four minimal icons in a row, cracked ground, spiral storm, wave over house, dry sun, glowing softly
 
-장면 9. 갯벌, 세계 5대 (10:19~11:14)
+컷 46 (I) / 1위가 필리핀이에요. 4년 연속이요. 옆 나라 일본은 17위, 미국은 21위. / 순위표 애니메이션 / 자막: 필리핀 1위, 일본 17위, 미국 21위 / 5:27~5:34 / Image Prompt: Vertical ranking list graphic with three highlighted rows near the top, glowing markers, minimal
 
-컷 37 (P) / 그리고 이제, 오늘 영상의 주인공이에요. 서해 갯벌. / 화면 암전 후 갯벌 광각 드론 등장, 음악 전환 / 자막: 서해 갯벌 / 10:19~10:24 / Image Prompt: Vast Korean tidal flat at low tide stretching to the horizon, intricate branching mud channel patterns reflecting a pale sky, wide aerial drone shot
+컷 47 (I) / 한국은요, 49위예요. 화산도 없고, 환태평양 지진대에서도 벗어나 있어요. 한반도는 유라시아판 안쪽에 있거든요. / 판 경계 지도, 한반도가 판 안쪽에 위치 / 자막: 한국 49위, 유라시아판 내부 / 5:34~5:44 / Image Prompt: Tectonic plate map of East Asia with the Pacific Ring of Fire glowing red along Japan and the Philippines, the Korean Peninsula sitting calmly inside the Eurasian plate
 
-컷 38 (P) / 갯벌이 생기려면 조건이 세 개 맞아야 해요. 바다가 얕아야 하고, 조차가 커야 하고, 강이 진흙을 계속 실어 와야 해요. 서해는 이 셋이 다 있어요. 얕고, 9미터 조차에, 한강 금강 영산강이 진흙을 쏟아부어요. / 세 조건 아이콘이 하나씩 체크되고, 지도에 한강 금강 영산강 하구가 표시됨 / 자막: 얕은 수심 + 큰 조차 + 강의 퇴적물 / 10:24~10:42 / Image Prompt: Aerial view of a wide muddy river mouth fanning out into the sea, brown sediment plumes swirling into pale green water, delta patterns
+컷 48 (P) / 태풍은 오지만 필리핀이나 일본이 한 번 걸러준 뒤에 와요. / 위성 태풍 경로, 필리핀과 일본을 지나 약해짐 / 자막: 이웃이 먼저 걸러주는 자리 / 5:44~5:50 / Image Prompt: Satellite view of a massive typhoon spiraling over the western Pacific, its path curving past the Philippines and Japan toward Korea, dramatic cloud swirl
 
-컷 39 (I) / 그래서 세계에서 갯벌이 큰 곳 다섯 군데 중 하나가 됐어요. 유럽 북해 연안, 미국 동부, 캐나다 동부, 아마존 강 하구, 그리고 한국 서남해안. / 세계지도에 5곳 순차 표시, 한국이 마지막에 켜짐 / 자막: 북해, 미국 동부, 캐나다 동부, 아마존 하구, 한국 / 10:42~10:53 / Image Prompt: World map with five coastal regions highlighted in amber, Europe North Sea, US east coast, Canada east coast, Amazon estuary, and Korea west coast
+컷 49 (P) / 물론 홍수랑 폭우는 있어요. 그래도 이웃 나라들이랑 비교하면 확실히 조용한 자리예요. 이것도 뒤에서 한 번 더 다룰게요. / 장마철 불어난 한강, 이어서 잔잔한 시골 풍경 / 자막: 조용한 자리 / 5:50~6:01 / Image Prompt: Calm Korean countryside at dusk, rice paddies reflecting a pastel sky, distant low mountains, still and quiet
 
-컷 40 (I) / 다른 네 곳은 대륙 규모 해안선이 만든 거예요. 우리는 10만 제곱킬로미터 안에 2,482제곱킬로미터를 갖고 있어요. 국토의 2.5퍼센트가 갯벌인 나라입니다. 서울 면적의 네 배가 하루 두 번 물에 잠기고 다시 드러나요. / 한반도 지도에서 서남해안 갯벌 영역만 갈색으로 채워지고 서울 면적 네 개와 비교 / 자막: 2,482제곱킬로미터, 국토의 2.5퍼센트, 서울의 4배 / 10:53~11:14 / Image Prompt: Map of South Korea with the entire western and southern coastline fringed in rich brown tidal flat areas, glowing softly
 
+장면 5. 동해, 미니 대양 (6:01~7:43)
 
-장면 10. 갯벌이 하는 일 (11:14~13:32)
+컷 50 (P) / 이제 바다로 가볼게요. 여기서부터가 진짜예요. / 파도가 해안 절벽을 치는 광각 / 자막: 자막 없음 / 6:01~6:05 / Image Prompt: Wide shot of dark blue waves crashing against rocky Korean coastal cliffs, spray in the air, dramatic overcast light
 
-컷 41 (P) / 이 갯벌이 하는 일을 볼게요. 서울대 김종성 교수팀이 2017년부터 4년 동안 전국 갯벌 스무 곳의 흙을 파서 분석했어요. 진흙 속에 탄소가 얼마나 쌓여 있는지, 매년 얼마나 새로 쌓이는지요. / 연구원들이 장화 신고 갯벌에서 코어 채취하는 장면 / 자막: 2017~2020, 전국 갯벌 20곳 / 11:14~11:31 / Image Prompt: Marine researchers in rubber boots and waders kneeling on a tidal flat, pushing a clear sediment core tube into dark mud, overcast sky, field science documentary
+컷 51 (I) / 우리나라는 삼면이 바다잖아요. 그건 다 아는데, 이 세 바다가 완전히 다른 바다라는 건 잘 모르시죠. / 한반도 지도, 동해 서해 남해가 다른 색으로 물듦 / 자막: 동해, 서해, 남해 / 6:05~6:14 / Image Prompt: Map of the Korean Peninsula surrounded by three seas each tinted a distinctly different shade, deep indigo east, pale turquoise west, teal south
 
-컷 42 (I) / 그 결과 우리 갯벌에 탄소 1,300만 톤이 묻혀 있고, 매년 26만 톤의 이산화탄소를 새로 빨아들이고 있다는 걸 세계 최초로 밝혔어요. 국가 단위로 갯벌 탄소를 계산한 게 우리가 처음이에요. / 갯벌 단면 그래픽, 진흙층 속으로 탄소 입자가 가라앉아 쌓이는 애니메이션 / 자막: 탄소 1,300만 톤 저장, 연 26만 톤 흡수 / 11:31~11:48 / Image Prompt: Scientific cross-section illustration of tidal flat sediment layers, dark carbon particles sinking from the water and accumulating in deep mud strata
+컷 52 (I) / 동해요. 평균 수심이 1,684미터예요. 가장 깊은 곳은 3,762미터. / 동해 단면도 깊이 그래픽 / 자막: 평균 1,684미터, 최대 3,762미터 / 6:14~6:21 / Image Prompt: Cross-section diagram of the East Sea showing dramatic depth, deep blue gradient darkening downward to near black
 
-컷 43 (P) / 26만 톤이 어느 정도냐면, 승용차 11만 대가 1년 내내 뿜는 양이에요. 그걸 그냥 진흙이 먹는 거예요. 인터넷에 20만 대라고 쓴 글도 있는데, 연구 원문은 11만 대예요. / 위에서 본 거대한 주차장 가득한 자동차, 이어서 갯벌로 디졸브. 20만에 취소선, 11만 강조 / 자막: 승용차 11만 대분 / 11:48~12:04 / Image Prompt: Aerial top-down view of an enormous parking lot packed with tens of thousands of cars in neat rows extending beyond the frame, hazy afternoon light
+컷 53 (I) / 서울 남산을 열세 개 쌓아도 안 닿아요. / 남산 실루엣 13개가 쌓여도 바닥에 못 닿음 / 자막: 남산 13개 / 6:21~6:25 / Image Prompt: Column of thirteen tiny stacked mountain silhouettes with a tower on top inside a deep blue sea cross-section, not reaching the seabed
 
-컷 44 (P) / 게다가 숲이랑 달라요. 숲은 나무가 죽거나 산불이 나면 탄소를 다시 내놓아요. 갯벌은 진흙 속에 수천 년 가둬 둡니다. 그래서 요즘 이걸 블루카본이라고 부르고 전 세계가 주목하고 있어요. / 산불 장면과 고요한 갯벌 대비 2분할, 블루카본 텍스트 / 자막: 블루카본 / 12:04~12:20 / Image Prompt: Split image, left a forest fire releasing smoke into the sky, right a calm dark tidal flat under blue dusk light, stark contrast
+컷 54 (I) / 동해 바닷물의 89퍼센트가 수심 200미터보다 아래에 있어요. / 수심 200미터 선 아래가 89퍼센트로 채워지는 그래픽 / 자막: 89퍼센트가 200미터 아래 / 6:25~6:32 / Image Prompt: Tall vertical water column graphic with a thin line near the top marking 200 meters and the vast dark region below filling in
 
-컷 45 (P) / 생물은요. 이 갯벌에 2,446종이 살아요. 새만 216종이고 그중 24종이 국제 멸종위기종이에요. 게, 낙지, 짱뚱어, 갯지렁이 같은 바닥 생물만 1,349종이에요. / 갯벌 생물 몽타주, 칠게, 짱뚱어, 낙지 매크로 빠른 컷 / 자막: 2,446종, 조류 216종, 저서동물 1,349종 / 12:20~12:36 / Image Prompt: Macro shot of a small fiddler crab with one oversized claw on wet Korean mud flat, tiny air holes around it, shallow focus, soft daylight
+컷 55 (I) / 왜 이렇게 됐을까요. 동해는 바깥 바다로 나가는 출구가 네 개밖에 없어요. 대한해협, 쓰가루, 소야, 타타르. / 동해 지도에 네 해협 표시 / 자막: 출구 4개 / 6:32~6:41 / Image Prompt: Map of the East Sea basin enclosed by Korea, Japan and Russia, four narrow straits marked with small glowing gaps
 
-컷 46 (P) / 특히 새요. 서천 앞바다에 유부도라는 작은 섬이 있어요. 동아시아에서 호주까지 오가는 도요물떼새가 63종인데, 그중 24종이 이 섬 하나에 내려앉아요. 멸종위기종만 17종이에요. / 유부도 위치 지도 줌인, 이어서 도요새 무리 실사 / 자막: 유부도, 63종 중 24종, 멸종위기 17종 / 12:36~12:53 / Image Prompt: Small flat island surrounded by vast exposed tidal flats at low tide, seen from a high drone angle, thin channels of water glinting
+컷 56 (I) / 그런데 이 출구가 전부 폭이 좁고 수심이 200미터도 안 돼요. 그러니까 200미터 아래 깊은 물은 밖으로 못 나가요. / 해협 단면, 얕은 문턱 그래픽 / 자막: 모두 수심 200미터 미만 / 6:41~6:52 / Image Prompt: Side-view diagram of a shallow underwater sill at a strait, deep water on one side unable to pass over the raised threshold
 
-컷 47 (P) / 시베리아나 알래스카에서 번식하고 호주나 뉴질랜드에서 겨울을 나는 새들이에요. 그 사이 수천 킬로미터를 날아오다가 딱 한 번 내려서 먹고 쉬는 데가 우리 서해 갯벌이에요. 우리 갯벌이 없어지면 그 새들은 태평양 위에서 떨어져요. / 동아시아 대양주 이동 경로 지도, 시베리아에서 한국을 거쳐 호주로 이어지는 선, 이어서 도요새 수천 마리 이륙 / 자막: 시베리아 → 서해 갯벌 → 호주 / 12:53~13:14 / Image Prompt: Thousands of migratory shorebirds lifting off together from a Korean tidal flat at dawn, dense swirling flock against a pale pink and gold sky, wildlife documentary photography
+컷 57 (I) / 거대한 그릇에 갇혀 있는 거예요. / 그릇 모양 단면에 심층수가 갇힌 모습 / 자막: 거대한 그릇 / 6:52~6:56 / Image Prompt: Stylized bowl-shaped cross-section of the East Sea basin, four narrow shallow openings at the rim, deep dark water trapped inside
 
-컷 48 (P) / 돈으로 따지면요. 정부가 2003년에 계산한 게 1제곱킬로미터당 연 39억 원이에요. 전체로 하면 1년에 10조 원. 수산물, 정화, 재해 방지, 관광을 다 합친 값이에요. 그냥 거기 있기만 해도요. / 10조 원 카운터, 수산물 정화 방재 관광 네 아이콘 / 자막: 연 10조 원 / 13:14~13:32 / Image Prompt: Fisherwomen in wide hats harvesting clams and octopus on a glistening Korean mud flat, baskets and small sleds, late afternoon light
+컷 58 (P) / 그래서 해양학자들은 동해를 미니 대양이라고 불러요. / 동해 수중, 빛이 사라지는 심연 / 자막: 미니 대양 / 6:56~7:01 / Image Prompt: Underwater view descending from sunlit surface into pitch black abyss of the East Sea, shafts of light fading, particles drifting, vast and silent
 
+컷 59 (I) / 태평양 같은 큰 바다에서 일어나는 심층수 순환이 동해 안에서도 똑같이 일어나거든요. / 표층에서 심층으로 내려가는 화살표 애니메이션 / 자막: 심층수 순환 / 7:01~7:09 / Image Prompt: Ocean circulation diagram, cold surface water sinking at the north, flowing along the seabed and rising again, looping arrows in blue
 
-장면 11. 유네스코, 두 번의 인정 (13:32~14:31)
+컷 60 (P) / 표층의 물이 겨울에 차가워져서 가라앉고, 바닥을 돌아서 다시 올라오는 순환이요. / 겨울 동해 표면, 눈보라, 차가운 바다 / 자막: 자막 없음 / 7:09~7:16 / Image Prompt: Winter East Sea surface in a snowstorm, steel gray water with white caps, snow blowing sideways, bitterly cold atmosphere
 
-컷 49 (I) / 그래서 2021년 7월에 유네스코가 한국의 갯벌을 세계자연유산으로 올렸어요. 서천, 고창, 신안, 보성-순천 네 곳이었어요. 제주 화산섬 이후 14년 만에 나온 우리나라 두 번째 자연유산이에요. / 서남해안 지도에 4곳이 금색으로 켜짐 / 자막: 2021년 7월 26일, 세계자연유산 / 13:32~13:49 / Image Prompt: Map of the southwestern coast of Korea with four tidal flat regions lighting up in gold one after another, elegant heritage emblem style
+컷 61 (I) / 다른 대양은 이 순환이 천 년에서 이천 년 걸리는데, 동해는 백 년이면 한 바퀴 돌아요. / 두 개의 원형 타이머, 2000년 대 100년 / 자막: 대양 1,000~2,000년 / 동해 100년 / 7:16~7:24 / Image Prompt: Two circular clock-like rings side by side, a huge slow ring and a small fast ring, glowing blue
 
-컷 50 (P) / 그런데 그때 유네스코가 조건을 하나 달았어요. 이거 좋은데, 범위가 너무 좁다. 더 넓혀서 다시 오라고. 그래서 5년을 준비했어요. / 유네스코 결정문 문서 느낌 그래픽, '확대 등재 권고' 부분 하이라이트 / 자막: 범위를 넓혀서 다시 오라 / 13:49~14:01 / Image Prompt: Close-up of an official document page with a highlighted paragraph, formal serif typography blurred, a fountain pen resting beside
+컷 62 (I) / 게다가 남쪽은 아열대, 북쪽은 아한대예요. / 동해 지도 남북 색 그라데이션, 따뜻한 남쪽 차가운 북쪽 / 자막: 남쪽 아열대, 북쪽 아한대 / 7:24~7:28 / Image Prompt: Map of the East Sea with a vertical gradient from warm orange in the south to icy blue in the north
 
-컷 51 (P) / 그리고 올해, 2026년 7월 25일에 부산에서 열린 제48차 세계유산위원회에서 범위를 넓히는 게 확정됐습니다. 여수, 고흥, 무안, 서산 갯벌이 추가돼서 6개 구성요소, 유산구역 15만 6천 헥타르가 됐어요. / 국제회의장, 의사봉 내리는 순간. 이어서 지도에서 4곳이 6개 구성요소로 확장 / 자막: 2026년 7월 25일 부산, 6개 구성요소, 15만 6,386헥타르 / 14:01~14:21 / Image Prompt: Large international conference hall with rows of delegates at curved desks, country name plates, a giant screen at the front, a gavel coming down at the podium, formal lighting
+컷 63 (I) / 지구 바다에서 일어나는 일을 스무 배 빠른 속도로 보여주는 축소판이 우리 집 앞에 있는 거예요. / 지구와 동해를 나란히, 축소판 비유 / 자막: 지구 바다의 축소판 / 7:28~7:37 / Image Prompt: Small glowing model of the East Sea basin floating beside a dim full globe, scale comparison, minimal
 
-컷 52 (I) / 우리나라에서 열린 회의에서 우리 갯벌이 넓어진 거예요. 그 회의장에 앉아 있던 각국 대표들이 손을 들어서요. / 회의장 박수, 한국 대표단 미소, 지도 최종 확장 상태 / 자막: 부산에서, 우리 손으로 / 14:21~14:31 / Image Prompt: The same southwestern Korea map, golden heritage zones expanding outward and merging into six larger glowing regions
+컷 64 (P) / 그래서 전 세계 해양학자들이 기후변화 연구하려고 동해로 옵니다. / 해양조사선 갑판, 관측장비 내리는 연구원 / 자막: 자막 없음 / 7:37~7:43 / Image Prompt: Ocean research vessel on the open East Sea at dawn, scientists on deck lowering a cylindrical CTD instrument into dark water, cold steel gray sky
 
 
-장면 12. 반전 하나, 편애받은 땅이 아니었다 (14:31~16:53)
+장면 6. 서해, 9미터 조차와 세계 최대 조력발전 (7:43~8:58)
 
-컷 53 (P) / 여기까지 들으면 진짜 신이 편애한 것 같죠. 심은 숲, 깨끗한 물, 조용한 자리, 세 가지 바다, 세계 최고 갯벌. 그런데 이제 그 반전이에요. / 앞서 나온 숲, 약수, 바다, 갯벌 4컷이 빠르게 재생된 뒤 화면이 급격히 차가운 톤으로 / 자막: 그런데 / 14:31~14:43 / Image Prompt: Four-panel grid of Korean landscapes, forest, spring water, deep sea, tidal flat, colors draining to cold desaturated blue-gray, cinematic mood shift
+컷 65 (I) / 서해는 정반대예요. 평균 수심이 40미터 정도. 얕아요. 동해 평균 수심의 40분의 1이에요. / 동해와 서해 수심 비교 막대 / 자막: 평균 수심 약 40미터, 동해의 40분의 1 / 7:43~7:52 / Image Prompt: Two vertical depth bars side by side, one extremely tall and dark, one tiny and pale, labeled by color only
 
-컷 54 (P) / 이 땅은 편애받은 땅이 아니에요. 아까 산림 얘기할 때 기억해 두라고 했잖아요. 우리 숲은 신이 준 게 아니라 우리 부모님 세대가 65억 그루를 손으로 심어서 만든 거예요. 원래 있던 걸 지킨 게 아니라, 다 잃은 다음에 다시 만든 거예요. / 한 노인의 손에 든 묘목 클로즈업, 이어서 그 손이 심은 자리에 자란 큰 나무 / 자막: 65억 그루, 손으로 심은 숲 / 14:43~15:03 / Image Prompt: Close-up of weathered elderly Korean hands gently holding a small pine seedling with soil on the roots, soft overcast light, shallow depth of field
+컷 66 (P) / 대신 물이 하루에 두 번 엄청나게 들고 나가요. / 서해 갯벌 조수 타임랩스 / 자막: 하루 두 번 / 7:52~7:56 / Image Prompt: Time-lapse style wide shot of the West Sea coast, tide receding to reveal vast mud flats then rushing back, dramatic sky, long shadows
 
-컷 55 (I) / 그리고 갯벌은요. 이게 더 아픈 얘기예요. 1987년부터 1997년까지 딱 10년 동안 간척 사업으로 갯벌 810제곱킬로미터가 사라졌어요. 지금 남은 갯벌의 3분의 1이 10년 만에 없어진 거예요. / 서해안 지도에서 사라진 갯벌 영역이 붉게 표시 / 자막: 1987~1997, 810제곱킬로미터 소멸 / 15:03~15:22 / Image Prompt: Map of Korea's west coast with large red hatched zones marking vanished tidal flats and only a thin brown fringe remaining, stark contrast
+컷 67 (P) / 인천 앞바다 조차가 최대 9미터가 넘어요. / 부두 기둥 만조와 간조 비교 / 자막: 인천 조차 최대 9미터 / 7:56~8:00 / Image Prompt: Same harbor pier pillar shown at high tide with water near the top and at low tide fully exposed with barnacles, side by side, overcast coastal light
 
-컷 56 (P) / 새만금이에요. 1991년에 첫 삽을 떠서 2010년에 끝났어요. 19년, 2조 9천억 원. 길이 33.9킬로미터. 네덜란드 방조제를 제치고 세계에서 가장 긴 방조제로 기네스북에 올랐어요. / 새만금 방조제 항공 뷰, 직선 콘크리트가 수평선까지 이어짐. 33.9킬로미터 자막 / 자막: 1991~2010, 19년, 2조 9천억 원, 33.9킬로미터 세계 최장 / 15:22~15:41 / Image Prompt: Aerial view of the Saemangeum seawall, a perfectly straight concrete line dividing brown dry reclaimed land from the open gray sea, stretching to the horizon, overcast sky
+컷 68 (I) / 3층 건물 높이만큼 바다가 오르락내리락하는 거예요. / 3층 건물 실루엣과 물 높이 겹치기 / 자막: 3층 건물 높이 / 8:00~8:06 / Image Prompt: Silhouette of a three-story building beside a rising column of seawater reaching its roofline, simple scale comparison
 
-컷 57 (P) / 그 안에 있던 연안습지가 401제곱킬로미터예요. 지금 유네스코에 올라간 갯벌 유산구역의 4분의 1이 넘는 크기가 한 사업으로 없어진 거예요. / 새만금 매립지 내부, 마른 진흙 바닥과 죽은 조개껍데기 / 자막: 연안습지 401제곱킬로미터 / 15:41~15:54 / Image Prompt: Cracked dry mud of a former tidal flat behind a seawall, scattered bleached clam shells, no water in sight, harsh flat light, somber
+컷 69 (P) / 추석 무렵 슈퍼문이 뜨면 10미터까지 벌어져요. 세계적으로 조차가 큰 바다로 꼽혀요. / 바다 위 거대한 보름달 / 자막: 슈퍼문 10미터 / 8:06~8:14 / Image Prompt: Enormous full supermoon rising over a dark calm West Sea horizon, moonlight path on the water, fishing boats silhouetted
 
-컷 58 (P) / 시화호도 같은 시기예요. 아까 조력발전소 얘기했잖아요. 그거 원래 갯벌 막아서 만든 호수예요. 물이 썩어서 결국 바닷물을 다시 들여야 했고, 그 과정에서 발전소가 나온 거예요. 성공 사례처럼 보이지만 출발은 실패였어요. / 시화호 오염 시절 사진에서 현재 발전소로 디졸브, 아래에 타임라인 / 자막: 시화호, 실패에서 나온 성공 / 15:54~16:14 / Image Prompt: Wide aerial view of Sihwa Lake seawall at dusk, tidal gates open with water flowing through, half the frame lake and half sea, contemplative mood
+컷 70 (P) / 이 힘으로 뭘 하냐면, 시화호에 세계 최대 조력발전소를 돌려요. / 시화호 조력발전소 항공 뷰 / 자막: 시화호 조력발전소, 세계 최대 / 8:14~8:20 / Image Prompt: Aerial view of Sihwa Lake tidal power station, long straight seawall with ten turbine gates, seawater rushing through in white foam, golden hour
 
-컷 59 (I) / 네이처에 실린 연구를 보면 황해 갯벌은 지난 30년간 28퍼센트가 줄었어요. 전 세계 갯벌이 16퍼센트 줄었는데 우리 바다는 거의 두 배 속도로 사라진 거예요. 우리가 지금 자랑하는 유네스코 갯벌은 그 나머지예요. / 막대그래프 세계 16퍼센트 대 황해 28퍼센트, 위성 사진 1984 대 2016 비교 / 자막: 세계 16퍼센트 감소 / 황해 28퍼센트 감소 / 16:14~16:33 / Image Prompt: Two satellite images of the same Yellow Sea coastline side by side, 1980s with wide brown tidal flats and 2010s with straight seawalls and reclaimed land
+컷 71 (P) / 254메가와트, 1년에 552기가와트시. 인구 50만 도시 하나가 쓰는 전기예요. / 수문 클로즈업에서 도시 야경으로 디졸브 / 자막: 254메가와트, 연 552기가와트시, 인구 50만 도시 / 8:20~8:28 / Image Prompt: Night aerial view of a mid-sized Korean city lighting up block by block, warm window lights spreading outward, viewed from high above
 
-컷 60 (P) / 간척은 원래 오래된 일이에요. 고려사에 1256년 강화도에서 둑을 쌓아 땅을 만들었다는 기록이 있어요. 800년 전부터 했어요. 다만 그때는 삽으로 했고, 1990년대엔 중장비로 했다는 게 다른 거예요. / 고려사 고문서 느낌 이미지, 이어서 대형 덤프트럭과 준설선 / 자막: 1256년 강화도, 800년의 간척 / 16:33~16:53 / Image Prompt: Ancient Korean manuscript page with vertical brush calligraphy on aged hanji paper, soft candlelight, shallow focus
+컷 72 (P) / 바닷물이 밀려오고 빠져나가는 것만으로요. / 수문 통과하는 물살 클로즈업 / 자막: 자막 없음 / 8:28~8:33 / Image Prompt: Close-up of turbulent seawater surging through a massive concrete tidal gate, white foam and spray, powerful motion
 
+컷 73 (P) / 원래 시화호는 1990년대에 방조제로 막았다가 물이 썩어서 시궁창 냄새가 난다고 전국 뉴스에 나오던 곳이에요. / 1990년대 뉴스 화면 느낌의 오염된 호수 / 자막: 1990년대, 오염된 시화호 / 8:33~8:44 / Image Prompt: Murky greenish polluted lake surface with foam and dead fish near a concrete embankment, 1990s news footage look, grainy
 
-장면 13. 반전 둘, 아직 조용한 땅 (16:53~17:47)
+컷 74 (P) / 그걸 수문을 열고 발전소를 얹어서 1년에 바닷물 1억 4,500만 톤을 안팎으로 갈아 넣는 정화 장치로 바꿨어요. / 현재 맑아진 시화호, 수문 열린 모습 / 자막: 연 1억 4,500만 톤 해수 순환 / 8:44~8:55 / Image Prompt: Clear blue water of Sihwa Lake today with open tidal gates in the distance, gulls flying, clean bright daylight
 
-컷 61 (P) / 물도 그래요. 비는 세계 평균의 1.6배 오는데, 사람이 많아서 1인당으로 나누면 세계 평균의 17퍼센트밖에 안 돼요. 그리고 그 비의 절반 이상이 여름 두 달에 몰려서 와요. 겨울엔 연간 강수량의 10분의 1도 안 돼요. 유엔 기준으로 우리는 물 스트레스 국가예요. / 말라붙은 저수지 바닥, 이어서 월별 강수량 그래프가 여름에만 치솟는 애니메이션 / 자막: 1인당 강수량 세계 평균 17퍼센트, 물 스트레스 국가 / 16:53~17:16 / Image Prompt: Cracked dry reservoir bed with a stranded small boat, receding water line visible on the far bank, harsh midday sun
+컷 75 (P) / 이 얘기도 나중에 다시 나옵니다. / 시화호 방조제 위 도로 드라이브 뷰 / 자막: 자막 없음 / 8:55~8:58 / Image Prompt: Driving view along a long straight seawall road with sea on one side and lake on the other, late afternoon light
 
-컷 62 (I) / 지진도요. 아까 판 안쪽이라 조용하다고 했죠. 그런데 지난 8월에 학자들이 이렇게 경고했어요. 판 안쪽이라는 게 바로 긴장해야 할 이유라고. 서쪽에서 인도판이 밀고, 동쪽에서 태평양판이 밀고, 그 힘이 한반도 안에 있는 오래된 단층에 조금씩 쌓이고 있대요. 경주, 포항 지진이 그 신호였어요. / 판 경계 지도에 양쪽에서 화살표가 한반도를 압박, 지진계 그래프, 포항 지진 피해 건물 / 자막: 판 내부 응력 축적, 경주 2016, 포항 2017 / 17:16~17:41 / Image Prompt: Tectonic map of East Asia with large arrows pressing inward on the Korean Peninsula from the Indian plate in the west and the Pacific plate in the east, faults glowing faintly orange
 
-컷 63 (P) / 그러니까 이 땅은 조용한 땅이 아니라, 아직 조용한 땅이에요. / 검은 화면에 문장 하나만 / 자막: 조용한 땅이 아니라, 아직 조용한 땅 / 17:41~17:47 / Image Prompt: Pure black background with a single thin white horizontal line of light in the center, minimalist, cinematic void, subtle film grain
+장면 7. 남해, 두 해류가 만드는 세계 최고 밀도 (8:58~10:06)
 
+컷 76 (I) / 남해는 또 달라요. 남쪽에서 따뜻한 대마난류가 올라오고, 북쪽에서 차가운 북한한류가 내려와서 여기서 만나요. / 지도 위 주황 난류와 파랑 한류 충돌 / 자막: 대마난류, 북한한류 / 8:58~9:08 / Image Prompt: Ocean current map illustration, a warm orange current sweeping up from the south and a cold blue current flowing down from the north colliding and swirling around the southern coast of Korea
 
-장면 14. 클로징 (17:47~18:55)
+컷 77 (P) / 계절마다 어느 쪽이 세냐에 따라 바다 성격이 바뀌어요. / 남해 다도해 항공, 섬 사이 물빛 / 자막: 자막 없음 / 9:08~9:13 / Image Prompt: Aerial view of the South Sea archipelago of Korea, dozens of small green islands scattered on turquoise and deep blue water, soft haze
 
-컷 64 (P) / 그러니까 이 땅의 진짜 가치는 이거예요. 신이 준 게 아니라, 망가졌던 걸 다시 살려낸 기록이 있는 땅이라는 거. / 다시 따뜻한 톤, 숲이 갯벌 해안선과 만나는 골든아워 드론 / 자막: 신이 준 게 아니라 살려낸 땅 / 17:47~17:57 / Image Prompt: Golden hour aerial shot where dense green Korean forest slopes meet a shimmering tidal flat coastline, warm hopeful light, cinematic wide shot
+컷 78 (P) / 찬물을 따라 내려온 물고기랑 따뜻한 물을 타고 올라온 물고기가 한 바다에 섞이는 거예요. / 수중 어류 몽타주 / 자막: 자막 없음 / 9:13~9:21 / Image Prompt: Underwater scene in the South Sea of Korea, a school of silver fish passing rocky reef covered in colorful soft corals and kelp, sunlight rays from above, vibrant marine life
 
-컷 65 (P) / 숲을 없던 데서 만들어 봤고, 썩은 호수를 발전소로 바꿔 봤고, 갯벌도 반이 사라진 뒤에 남은 걸 세계유산으로 지켜냈어요. 그 세 가지를 다 해본 나라, 저는 다른 나라를 못 찾았어요. / 숲, 시화호 발전소, 유네스코 갯벌 3컷이 차례로 따뜻한 톤으로 다시 등장 / 자막: 숲 / 시화호 / 갯벌 / 17:57~18:12 / Image Prompt: Triptych of Korean landscapes in warm light, a dense pine forest, a tidal power seawall at sunset, and a golden tidal flat with birds, unified color grade
+컷 79 (P) / 한 바다에서 두 기후대의 생물을 동시에 보는 거죠. / 수중 클로즈업, 산호와 해조류 / 자막: 두 기후대, 한 바다 / 9:21~9:26 / Image Prompt: Underwater close-up of a rocky reef where cold-water kelp and warm-water soft coral grow side by side, fish darting between, clear water
 
-컷 66 (P) / 그 미국 친구한테 이제 대답할 수 있을 것 같아요. 작은데 많이 들어 있는 게 아니라, 작으니까 하나도 버리지 않고 다 살려 쓴 거라고요. 그리고 아직 다 살린 건 아니라고요. / 카페 지도 장면으로 복귀, 이번엔 한국인 손이 지도 위 서해안을 가리킴 / 자막: 하나도 버리지 않고 다 살려 쓴 땅 / 18:12~18:27 / Image Prompt: Same wooden cafe table with the paper map of South Korea, now a Korean hand pointing at the west coast, two coffee cups, warm late afternoon window light, shallow depth of field
+컷 80 (P) / 그래서 이런 결과가 나옵니다. / 수중에서 수면으로 올라오는 카메라, 빛 / 자막: 자막 없음 / 9:26~9:29 / Image Prompt: Underwater view looking up toward the shimmering sunlit surface of the sea, bubbles rising, bright and hopeful
 
-컷 67 (P) / 여러분은 우리 땅에서 가장 아까운 게 뭐라고 생각하세요. 댓글로 남겨 주시면 다음 영상에서 그 주제로 찾아보겠습니다. 다음 영상에서는 이 갯벌 810제곱킬로미터가 사라지던 10년 동안 무슨 일이 있었는지, 새만금의 진짜 이야기를 다뤄 볼게요. 구독하시면 놓치지 않고 보실 수 있어요. 오늘도 봐 주셔서 감사합니다. / 엔드 스크린, 왼쪽 구독 버튼 모션, 오른쪽 다음 영상 새만금 예고 카드 / 자막: 댓글로 알려주세요, 다음 영상 새만금의 진짜 이야기 / 18:27~18:55 / Image Prompt: Aerial view of the Saemangeum seawall at dusk with dramatic clouds, moody teaser atmosphere, space left on both sides for overlay elements, cinematic wide shot
+컷 81 (I) / 2000년부터 2010년까지 전 세계 과학자 2,700명이 10년 동안 바다 생물을 센 해양생물센서스라는 게 있어요. / 세계지도 위 조사 해역 25곳 점등 / 자막: 해양생물센서스 2000~2010, 과학자 2,700명 / 9:29~9:42 / Image Prompt: World map with twenty five glowing dots marking ocean survey regions, thin connecting lines, scientific data visualization feel
+
+컷 82 (P) / 인류 역사상 가장 큰 해양 생물 조사예요. / 연구원이 표본병 정리하는 실험실 / 자막: 자막 없음 / 9:42~9:46 / Image Prompt: Marine biology laboratory with rows of glass specimen jars holding preserved sea creatures, a scientist in the background, cool lab lighting
+
+컷 83 (I) / 조사한 25개 해역 중에서 면적에 비해 사는 생물 종이 가장 많은 바다가 어디였을까요. / 지도 위 점들이 깜박이며 대기 / 자막: 어디였을까요? / 9:46~9:54 / Image Prompt: The world map with all twenty five survey dots pulsing softly, none highlighted yet, suspense
+
+컷 84 (I) / 한국이었어요. 좁은 바다에 이렇게 많은 종이 사는 곳이 없었다는 거예요. / 한국 해역만 금색으로 켜짐 / 자막: 면적 대비 생물 종 수 세계 최고 / 9:54~10:01 / Image Prompt: The same world map now dimmed except the seas around the Korean Peninsula glowing bright gold, radiating light
+
+컷 85 (I) / 중국, 남아프리카, 발트해, 멕시코만이 그 뒤였어요. / 2~5위 지역이 은색으로 켜짐 / 자막: 그 뒤: 중국, 남아프리카, 발트해, 멕시코만 / 10:01~10:06 / Image Prompt: World map with Korea glowing gold and four other coastal regions lit in soft silver, minimal
+
+
+장면 8. 대국 비교 (10:06~10:47)
+
+컷 86 (I) / 정리해 볼게요. 깊은 바다, 얕은 바다, 두 해류가 만나는 바다. 이 세 개가 자동차로 반나절 거리 안에 다 있어요. / 한반도 지도 위 세 바다 아이콘과 자동차 경로 / 자막: 반나절 거리 / 10:06~10:15 / Image Prompt: Map of South Korea with three sea icons on each coast connected by a short glowing road line, compact and dense
+
+컷 87 (I) / 미국은 태평양과 대서양이 있지만 차로 닷새를 달려야 반대편 바다를 봐요. / 미국 횡단 경로 애니메이션 / 자막: 닷새 / 10:15~10:22 / Image Prompt: Flat map of the United States with a long dotted road route stretching from the Pacific coast to the Atlantic coast, tiny car icon
+
+컷 88 (P) / 러시아는 해안선은 길지만 대부분 일 년의 절반이 얼어 있어요. / 북극해 결빙 해안 실사 / 자막: 결빙 / 10:22~10:28 / Image Prompt: Aerial view of a frozen Arctic coastline, cracked white sea ice meeting gray tundra, icy blue tones, vast and desolate
+
+컷 89 (I) / 중국은 바다가 동쪽 한 면에만 있어요. / 중국 지도 동쪽 해안만 하이라이트 / 자막: 한 면 / 10:28~10:32 / Image Prompt: Flat map of China with only its eastern coastline glowing, the vast interior dim
+
+컷 90 (P) / 우리는 아침에 동해에서 해 보고 저녁에 서해에서 해 지는 걸 봐요. 강릉에서 인천까지 세 시간이에요. / 좌우 분할, 동해 일출과 서해 일몰 / 자막: 아침 동해, 저녁 서해, 3시간 / 10:32~10:41 / Image Prompt: Diptych, left panel a fiery sunrise over the calm East Sea horizon with rocky shore, right panel a soft orange sunset over West Sea mud flats, matching horizon lines
+
+컷 91 (P) / 이게 그 미국 친구가 말한 거였어요. 없는 게 아니라, 다 모여 있는 거. / 카페 지도 장면 짧은 회상 / 자막: 다 모여 있는 거 / 10:41~10:47 / Image Prompt: Paper map of South Korea on a wooden table with small pebbles placed on it marking spots, warm light, shallow focus
+
+
+장면 9. 갯벌, 세계 5대 (10:47~11:42)
+
+컷 92 (P) / 그리고 이제, 오늘 영상의 주인공이에요. 서해 갯벌. / 암전 후 갯벌 광각 드론 등장 / 자막: 서해 갯벌 / 10:47~10:51 / Image Prompt: Vast Korean tidal flat at low tide stretching to the horizon, intricate branching mud channel patterns reflecting a pale sky, wide aerial drone shot
+
+컷 93 (I) / 갯벌이 생기려면 조건이 세 개 맞아야 해요. 바다가 얕아야 하고, 조차가 커야 하고, 강이 진흙을 계속 실어 와야 해요. / 세 조건 아이콘이 하나씩 체크 / 자막: 얕은 수심 + 큰 조차 + 강의 퇴적물 / 10:51~11:01 / Image Prompt: Three minimal icons in a row, shallow wave line, tall tide arrow, winding river, each lighting up in turn
+
+컷 94 (P) / 서해는 이 셋이 다 있어요. 얕고, 9미터 조차에, 한강 금강 영산강이 진흙을 쏟아부어요. / 강 하구에서 바다로 퍼지는 퇴적물 항공 / 자막: 한강, 금강, 영산강 / 11:01~11:09 / Image Prompt: Aerial view of a wide muddy river mouth fanning out into the sea, brown sediment plumes swirling into pale green water, delta patterns
+
+컷 95 (I) / 그래서 세계에서 갯벌이 큰 곳 다섯 군데 중 하나가 됐어요. / 세계지도에 5곳 순차 표시 / 자막: 세계 5대 갯벌 / 11:09~11:15 / Image Prompt: World map with five coastal regions highlighted in amber, Europe North Sea, US east coast, Canada east coast, Amazon estuary, and Korea west coast
+
+컷 96 (P) / 유럽 북해 연안, 미국 동부, 캐나다 동부, 아마존 강 하구, 그리고 한국 서남해안. / 각 지역 갯벌 실사 빠른 몽타주, 마지막 한국 / 자막: 북해, 미국 동부, 캐나다 동부, 아마존, 한국 / 11:15~11:22 / Image Prompt: Aerial view of the Wadden Sea tidal flats in Europe, gray-brown mud channels and sandbars under a pale northern sky
+
+컷 97 (I) / 다른 네 곳은 대륙 규모 해안선이 만든 거예요. 우리는 10만 제곱킬로미터 안에 2,482제곱킬로미터를 갖고 있어요. / 한반도 지도 서남해안 갯벌 갈색 채움 / 자막: 2,482제곱킬로미터 / 11:22~11:33 / Image Prompt: Map of South Korea with the entire western and southern coastline fringed in rich brown tidal flat areas, glowing softly
+
+컷 98 (I) / 국토의 2.5퍼센트가 갯벌인 나라입니다. 서울 면적의 네 배가 하루 두 번 물에 잠기고 다시 드러나요. / 서울 면적 네 개와 갯벌 면적 비교 그래픽 / 자막: 국토의 2.5퍼센트, 서울의 4배 / 11:33~11:42 / Image Prompt: Four identical city outline shapes placed beside a larger brown tidal flat shape for size comparison, minimal
+
+
+장면 10. 갯벌이 하는 일 (11:42~14:06)
+
+컷 99 (P) / 이 갯벌이 하는 일을 볼게요. 서울대 김종성 교수팀이 2017년부터 4년 동안 전국 갯벌 스무 곳의 흙을 파서 분석했어요. / 연구원들이 장화 신고 갯벌에서 코어 채취 / 자막: 2017~2020, 전국 갯벌 20곳 / 11:42~11:53 / Image Prompt: Marine researchers in rubber boots and waders kneeling on a tidal flat, pushing a clear sediment core tube into dark mud, overcast sky, field science documentary
+
+컷 100 (P) / 진흙 속에 탄소가 얼마나 쌓여 있는지, 매년 얼마나 새로 쌓이는지요. / 채취한 퇴적물 코어 튜브 클로즈업, 층이 보임 / 자막: 자막 없음 / 11:53~12:00 / Image Prompt: Close-up of a clear plastic sediment core tube held up against the sky, dark layered mud visible inside, muddy gloved hands
+
+컷 101 (I) / 그 결과 우리 갯벌에 탄소 1,300만 톤이 묻혀 있고, / 갯벌 단면 그래픽, 진흙층 깊숙이 검은 탄소층 / 자막: 탄소 1,300만 톤 저장 / 12:00~12:05 / Image Prompt: Scientific cross-section illustration of tidal flat sediment layers with thick dark carbon-rich strata deep below the surface
+
+컷 102 (I) / 매년 26만 톤의 이산화탄소를 새로 빨아들이고 있다는 걸 세계 최초로 밝혔어요. / 물속 탄소 입자가 진흙으로 가라앉는 애니메이션 / 자막: 연 26만 톤 흡수, 세계 최초 / 12:05~12:13 / Image Prompt: Dark carbon particles drifting down through blue-green water and settling onto a mud surface, soft glow, illustration
+
+컷 103 (P) / 국가 단위로 갯벌 탄소를 계산한 게 우리가 처음이에요. / 국제 학술지 논문 첫 페이지 느낌 / 자막: 세계 최초 / 12:13~12:18 / Image Prompt: Close-up of a scientific journal article page with graphs and a map of a coastline, blurred text, resting on a desk
+
+컷 104 (P) / 26만 톤이 어느 정도냐면, 승용차 11만 대가 1년 내내 뿜는 양이에요. 그걸 그냥 진흙이 먹는 거예요. / 거대한 주차장 항공, 이어서 갯벌로 디졸브 / 자막: 승용차 11만 대분 / 12:18~12:28 / Image Prompt: Aerial top-down view of an enormous parking lot packed with tens of thousands of cars in neat rows extending beyond the frame, hazy afternoon light
+
+컷 105 (I) / 인터넷에 20만 대라고 쓴 글도 있는데, 연구 원문은 11만 대예요. / 20만에 취소선, 11만 강조 / 자막: 20만 대 아님, 11만 대 / 12:28~12:35 / Image Prompt: Two numeric-style glowing blocks side by side, the larger one crossed out in red, the smaller one highlighted green, no actual digits
+
+컷 106 (P) / 게다가 숲이랑 달라요. 숲은 나무가 죽거나 산불이 나면 탄소를 다시 내놓아요. / 산불 연기 장면 / 자막: 자막 없음 / 12:35~12:42 / Image Prompt: Forest fire on a Korean mountainside at night, orange flames and thick smoke rising, silhouettes of pine trees
+
+컷 107 (P) / 갯벌은 진흙 속에 수천 년 가둬 둡니다. 그래서 요즘 이걸 블루카본이라고 부르고 전 세계가 주목하고 있어요. / 고요한 갯벌 황혼, 블루카본 텍스트 / 자막: 블루카본 / 12:42~12:51 / Image Prompt: Calm dark tidal flat under deep blue dusk light, thin ribbons of water reflecting the sky, utterly still
+
+컷 108 (P) / 생물은요. 이 갯벌에 2,446종이 살아요. 새만 216종이고 그중 24종이 국제 멸종위기종이에요. / 갯벌 생물 몽타주 시작, 새 실루엣 / 자막: 2,446종, 조류 216종, 멸종위기 24종 / 12:51~13:01 / Image Prompt: Group of long-legged shorebirds wading in shallow water on a Korean tidal flat, reflections, soft morning light, telephoto
+
+컷 109 (P) / 게, 낙지, 짱뚱어, 갯지렁이 같은 바닥 생물만 1,349종이에요. / 칠게, 짱뚱어, 낙지 매크로 빠른 컷 / 자막: 저서동물 1,349종 / 13:01~13:08 / Image Prompt: Macro shot of a small fiddler crab with one oversized claw on wet Korean mud flat, tiny air holes around it, shallow focus, soft daylight
+
+컷 110 (P) / 특히 새요. 서천 앞바다에 유부도라는 작은 섬이 있어요. / 유부도 위치 지도 줌인, 섬 항공 / 자막: 서천 유부도 / 13:08~13:13 / Image Prompt: Small flat island surrounded by vast exposed tidal flats at low tide, seen from a high drone angle, thin channels of water glinting
+
+컷 111 (P) / 동아시아에서 호주까지 오가는 도요물떼새가 63종인데, 그중 24종이 이 섬 하나에 내려앉아요. / 도요새 무리 실사 / 자막: 63종 중 24종 / 13:13~13:22 / Image Prompt: Dense flock of sandpipers and plovers resting on a mud flat, hundreds of small birds packed together, soft overcast light, telephoto
+
+컷 112 (P) / 멸종위기종만 17종이에요. / 넓적부리도요 한 마리 클로즈업 / 자막: 멸종위기 17종 / 13:22~13:26 / Image Prompt: Close-up of a tiny spoon-billed sandpiper standing on wet mud, distinctive flattened bill tip, shallow focus, soft light
+
+컷 113 (I) / 시베리아나 알래스카에서 번식하고 호주나 뉴질랜드에서 겨울을 나는 새들이에요. / 이동 경로 지도, 시베리아에서 호주로 / 자막: 시베리아 → 서해 갯벌 → 호주 / 13:26~13:33 / Image Prompt: Map of the western Pacific with a long glowing migration arc from Siberia and Alaska down through Korea to Australia and New Zealand
+
+컷 114 (P) / 그 사이 수천 킬로미터를 날아오다가 딱 한 번 내려서 먹고 쉬는 데가 우리 서해 갯벌이에요. / 지친 도요새가 갯벌에 내려앉아 먹이 찾는 클로즈업 / 자막: 자막 없음 / 13:33~13:42 / Image Prompt: Close-up of a single exhausted shorebird probing wet mud with its long bill on a Korean tidal flat, soft dawn light, telephoto
+
+컷 115 (P) / 우리 갯벌이 없어지면 그 새들은 태평양 위에서 떨어져요. / 도요새 수천 마리 이륙 / 자막: 자막 없음 / 13:42~13:47 / Image Prompt: Thousands of migratory shorebirds lifting off together from a Korean tidal flat at dawn, dense swirling flock against a pale pink and gold sky, wildlife documentary photography
+
+컷 116 (I) / 돈으로 따지면요. 정부가 2003년에 계산한 게 1제곱킬로미터당 연 39억 원이에요. / 갯벌 위에 1제곱킬로미터 격자 하이라이트 / 자막: 1제곱킬로미터당 연 39억 원 / 13:47~13:56 / Image Prompt: Aerial view of a tidal flat with a single glowing square grid cell overlaid on the mud, the rest dimmed
+
+컷 117 (P) / 전체로 하면 1년에 10조 원. / 어민들이 조개 채취하는 실사, 카운터 / 자막: 연 10조 원 / 13:56~13:59 / Image Prompt: Fisherwomen in wide hats harvesting clams and octopus on a glistening Korean mud flat, baskets and small sleds, late afternoon light
+
+컷 118 (I) / 수산물, 정화, 재해 방지, 관광을 다 합친 값이에요. 그냥 거기 있기만 해도요. / 네 아이콘, 이어서 갯벌 노을 / 자막: 수산물 / 정화 / 방재 / 관광 / 13:59~14:06 / Image Prompt: Four minimal icons in a row, fish, water filter drop, shield with wave, camera, glowing softly
+
+
+장면 11. 유네스코, 두 번의 인정 (14:06~15:08)
+
+컷 119 (I) / 그래서 2021년 7월에 유네스코가 한국의 갯벌을 세계자연유산으로 올렸어요. / 서남해안 지도에 4곳 금색 점등 / 자막: 2021년 7월 26일, 세계자연유산 / 14:06~14:14 / Image Prompt: Map of the southwestern coast of Korea with four tidal flat regions lighting up in gold one after another, elegant heritage emblem style
+
+컷 120 (P) / 서천, 고창, 신안, 보성-순천 네 곳이었어요. / 네 지역 갯벌 실사 빠른 몽타주 / 자막: 서천, 고창, 신안, 보성-순천 / 14:14~14:18 / Image Prompt: Aerial view of Suncheon Bay tidal flat with circular reed islands and winding channels at sunset, iconic Korean wetland
+
+컷 121 (P) / 제주 화산섬 이후 14년 만에 나온 우리나라 두 번째 자연유산이에요. / 제주 성산일출봉과 갯벌 나란히 / 자막: 두 번째 자연유산 / 14:18~14:25 / Image Prompt: Diptych, left the volcanic tuff cone of Seongsan Ilchulbong on Jeju at sunrise, right a golden tidal flat, both in warm light
+
+컷 122 (P) / 그런데 그때 유네스코가 조건을 하나 달았어요. 이거 좋은데, 범위가 너무 좁다. 더 넓혀서 다시 오라고. / 결정문 문서에 하이라이트 / 자막: 범위를 넓혀서 다시 오라 / 14:25~14:34 / Image Prompt: Close-up of an official document page with a highlighted paragraph, formal serif typography blurred, a fountain pen resting beside
+
+컷 123 (P) / 그래서 5년을 준비했어요. / 현장 실사, 조사원들이 갯벌 걷는 모습 / 자막: 5년의 준비 / 14:34~14:37 / Image Prompt: Group of surveyors in field vests walking across a wide tidal flat carrying clipboards and tripods, overcast sky, distant horizon
+
+컷 124 (P) / 그리고 올해, 2026년 7월 25일에 부산에서 열린 제48차 세계유산위원회에서 / 부산 해안 스카이라인과 회의장 외관 / 자막: 2026년 7월 25일, 부산 / 14:37~14:46 / Image Prompt: Busan coastal skyline at dusk with a large modern convention center lit up along the waterfront, calm sea
+
+컷 125 (P) / 범위를 넓히는 게 확정됐습니다. / 회의장, 의사봉 내리는 순간 / 자막: 제48차 세계유산위원회, 확대 등재 확정 / 14:46~14:49 / Image Prompt: Large international conference hall with rows of delegates at curved desks, country name plates, a giant screen at the front, a gavel coming down at the podium, formal lighting
+
+컷 126 (I) / 여수, 고흥, 무안, 서산 갯벌이 추가돼서 6개 구성요소, 유산구역 15만 6천 헥타르가 됐어요. / 지도에서 4곳이 6개 구성요소로 확장 / 자막: 6개 구성요소, 15만 6,386헥타르 / 14:49~14:58 / Image Prompt: The same southwestern Korea map, golden heritage zones expanding outward and merging into six larger glowing regions
+
+컷 127 (P) / 우리나라에서 열린 회의에서 우리 갯벌이 넓어진 거예요. 그 회의장에 앉아 있던 각국 대표들이 손을 들어서요. / 회의장 박수, 대표단 미소 / 자막: 부산에서, 우리 손으로 / 14:58~15:08 / Image Prompt: Delegates in a conference hall applauding, some standing, warm stage lighting, blurred flags in the background
+
+
+장면 12. 반전 하나, 편애받은 땅이 아니었다 (15:08~17:35)
+
+컷 128 (P) / 여기까지 들으면 진짜 신이 편애한 것 같죠. 심은 숲, 깨끗한 물, 조용한 자리, 세 가지 바다, 세계 최고 갯벌. / 앞선 하이라이트 4컷 빠른 재생 / 자막: 자막 없음 / 15:08~15:17 / Image Prompt: Four-panel grid of Korean landscapes, forest, spring water, deep sea, tidal flat, all in warm saturated light
+
+컷 129 (P) / 그런데 이제 그 반전이에요. / 화면이 급격히 차가운 톤으로 빠짐 / 자막: 그런데 / 15:17~15:20 / Image Prompt: Four-panel grid of Korean landscapes, forest, spring water, deep sea, tidal flat, colors draining to cold desaturated blue-gray, cinematic mood shift
+
+컷 130 (P) / 이 땅은 편애받은 땅이 아니에요. 아까 산림 얘기할 때 기억해 두라고 했잖아요. / 컷 회상, 민둥산 흑백 / 자막: 기억하시죠 / 15:20~15:27 / Image Prompt: Black and white barren Korean hillside from the 1950s, faint and grainy, slowly fading in from black
+
+컷 131 (P) / 우리 숲은 신이 준 게 아니라 우리 부모님 세대가 65억 그루를 손으로 심어서 만든 거예요. / 노인의 손에 든 묘목 클로즈업 / 자막: 65억 그루, 손으로 심은 숲 / 15:27~15:35 / Image Prompt: Close-up of weathered elderly Korean hands gently holding a small pine seedling with soil on the roots, soft overcast light, shallow depth of field
+
+컷 132 (P) / 원래 있던 걸 지킨 게 아니라, 다 잃은 다음에 다시 만든 거예요. / 그 손이 심은 자리에 자란 큰 소나무 / 자막: 다 잃은 다음에 다시 만든 / 15:35~15:41 / Image Prompt: Tall mature pine tree on a green hillside, an elderly person standing small beside its trunk looking up, soft light
+
+컷 133 (P) / 그리고 갯벌은요. 이게 더 아픈 얘기예요. / 갯벌 위 어두운 구름 / 자막: 자막 없음 / 15:41~15:45 / Image Prompt: Dark storm clouds gathering low over a wide gray tidal flat, a thin line of light at the horizon, ominous
+
+컷 134 (I) / 1987년부터 1997년까지 딱 10년 동안 간척 사업으로 갯벌 810제곱킬로미터가 사라졌어요. / 서해안 지도에 사라진 갯벌 붉게 표시 / 자막: 1987~1997, 810제곱킬로미터 소멸 / 15:45~15:56 / Image Prompt: Map of Korea's west coast with large red hatched zones marking vanished tidal flats and only a thin brown fringe remaining, stark contrast
+
+컷 135 (I) / 지금 남은 갯벌의 3분의 1이 10년 만에 없어진 거예요. / 갯벌 면적 파이 그래픽에서 3분의 1이 떨어져 나감 / 자막: 3분의 1 / 15:56~16:02 / Image Prompt: Circular brown shape with one third breaking away and crumbling into red fragments, minimal
+
+컷 136 (P) / 새만금이에요. 1991년에 첫 삽을 떠서 2010년에 끝났어요. 19년, 2조 9천억 원. / 새만금 공사 현장, 덤프트럭과 준설선 / 자막: 새만금, 1991~2010, 19년, 2조 9천억 원 / 16:02~16:11 / Image Prompt: Massive coastal construction site with dump trucks and dredgers piling rock into the sea, gray water, industrial haze
+
+컷 137 (P) / 길이 33.9킬로미터. 네덜란드 방조제를 제치고 세계에서 가장 긴 방조제로 기네스북에 올랐어요. / 새만금 방조제 항공, 직선이 수평선까지 / 자막: 33.9킬로미터, 세계 최장 / 16:11~16:21 / Image Prompt: Aerial view of the Saemangeum seawall, a perfectly straight concrete line dividing brown dry reclaimed land from the open gray sea, stretching to the horizon, overcast sky
+
+컷 138 (P) / 그 안에 있던 연안습지가 401제곱킬로미터예요. / 매립지 내부, 마른 진흙과 죽은 조개껍데기 / 자막: 연안습지 401제곱킬로미터 / 16:21~16:26 / Image Prompt: Cracked dry mud of a former tidal flat behind a seawall, scattered bleached clam shells, no water in sight, harsh flat light, somber
+
+컷 139 (I) / 지금 유네스코에 올라간 갯벌 유산구역의 4분의 1이 넘는 크기가 한 사업으로 없어진 거예요. / 유산구역 면적과 새만금 면적 비교 그래픽 / 자막: 유산구역의 4분의 1 이상 / 16:26~16:35 / Image Prompt: Large golden shape beside a red shape about a quarter of its size, simple area comparison, minimal
+
+컷 140 (P) / 시화호도 같은 시기예요. 아까 조력발전소 얘기했잖아요. 그거 원래 갯벌 막아서 만든 호수예요. / 시화호 방조제 항공, 호수와 바다 반반 / 자막: 시화호 / 16:35~16:43 / Image Prompt: Wide aerial view of Sihwa Lake seawall at dusk, tidal gates open with water flowing through, half the frame lake and half sea, contemplative mood
+
+컷 141 (P) / 물이 썩어서 결국 바닷물을 다시 들여야 했고, 그 과정에서 발전소가 나온 거예요. 성공 사례처럼 보이지만 출발은 실패였어요. / 오염 시절 사진에서 현재 발전소로 디졸브 / 자막: 실패에서 나온 성공 / 16:43~16:54 / Image Prompt: Split image, left a murky polluted lake shoreline in grainy 1990s tones, right the same shoreline today with clear water and a tidal power plant, seamless center
+
+컷 142 (I) / 네이처에 실린 연구를 보면 황해 갯벌은 지난 30년간 28퍼센트가 줄었어요. / 위성 사진 1984 대 2016 비교 / 자막: 황해 갯벌 30년간 28퍼센트 감소 / 16:54~17:02 / Image Prompt: Two satellite images of the same Yellow Sea coastline side by side, 1980s with wide brown tidal flats and 2010s with straight seawalls and reclaimed land
+
+컷 143 (I) / 전 세계 갯벌이 16퍼센트 줄었는데 우리 바다는 거의 두 배 속도로 사라진 거예요. / 막대그래프 16 대 28 / 자막: 세계 16퍼센트 / 황해 28퍼센트 / 17:02~17:10 / Image Prompt: Two downward-pointing bar shapes, one modest and gray, one nearly twice as long and red, minimal
+
+컷 144 (P) / 우리가 지금 자랑하는 유네스코 갯벌은 그 나머지예요. / 남은 갯벌 실사, 좁아진 해안선 / 자막: 그 나머지 / 17:10~17:15 / Image Prompt: Narrow strip of tidal flat squeezed between a concrete seawall and the sea, viewed from above, muted colors
+
+컷 145 (P) / 간척은 원래 오래된 일이에요. / 강화도 옛 제방과 논 항공 / 자막: 간척 / 17:15~17:18 / Image Prompt: Aerial view of old earthen dikes and rice paddies along the Ganghwa Island coast, patchwork fields meeting the sea, soft light
+
+컷 146 (P) / 고려사에 1256년 강화도에서 둑을 쌓아 땅을 만들었다는 기록이 있어요. 800년 전부터 했어요. / 고려사 고문서 이미지 / 자막: 1256년 강화도, 800년 전 / 17:18~17:28 / Image Prompt: Ancient Korean manuscript page with vertical brush calligraphy on aged hanji paper, soft candlelight, shallow focus
+
+컷 147 (P) / 다만 그때는 삽으로 했고, 1990년대엔 중장비로 했다는 게 다른 거예요. / 삽 든 농부 실루엣과 대형 굴착기 대비 / 자막: 삽 / 중장비 / 17:28~17:35 / Image Prompt: Split image, left a lone farmer with a wooden shovel on an earthen dike in sepia, right a giant modern excavator on a concrete seawall, stark contrast
+
+
+장면 13. 반전 둘, 아직 조용한 땅 (17:35~18:32)
+
+컷 148 (I) / 물도 그래요. 비는 세계 평균의 1.6배 오는데, 사람이 많아서 1인당으로 나누면 세계 평균의 17퍼센트밖에 안 돼요. / 빗방울 그래픽이 인구 아이콘 위로 나뉘어 작아짐 / 자막: 1인당 강수량 세계 평균 17퍼센트 / 17:35~17:46 / Image Prompt: Large water drop shape dividing into many tiny droplets over a dense crowd of small human icons, minimal
+
+컷 149 (I) / 그리고 그 비의 절반 이상이 여름 두 달에 몰려서 와요. 겨울엔 연간 강수량의 10분의 1도 안 돼요. / 월별 강수량 그래프가 여름에만 치솟음 / 자막: 여름 집중, 겨울 10분의 1 미만 / 17:46~17:55 / Image Prompt: Twelve vertical bars with two towering in the middle and the rest tiny, blue gradient, minimal bar chart shape
+
+컷 150 (P) / 유엔 기준으로 우리는 물 스트레스 국가예요. / 말라붙은 저수지 바닥 / 자막: 물 스트레스 국가 / 17:55~18:00 / Image Prompt: Cracked dry reservoir bed with a stranded small boat, receding water line visible on the far bank, harsh midday sun
+
+컷 151 (I) / 지진도요. 아까 판 안쪽이라 조용하다고 했죠. / 판 경계 지도 회상, 한반도 판 내부 / 자막: 지진 / 18:00~18:04 / Image Prompt: Tectonic plate map of East Asia, the Korean Peninsula sitting inside the Eurasian plate, cool calm blue tones
+
+컷 152 (I) / 그런데 지난 8월에 학자들이 이렇게 경고했어요. 판 안쪽이라는 게 바로 긴장해야 할 이유라고. / 같은 지도가 경고색으로 바뀜 / 자막: 판 내부가 긴장해야 할 이유 / 18:04~18:13 / Image Prompt: Tectonic map of East Asia, the Korean Peninsula inside the Eurasian plate pulsing with a faint orange warning glow
+
+컷 153 (I) / 서쪽에서 인도판이 밀고, 동쪽에서 태평양판이 밀고, 그 힘이 한반도 안에 있는 오래된 단층에 조금씩 쌓이고 있대요. / 양쪽 화살표가 한반도를 압박, 단층선 발광 / 자막: 판 내부 응력 축적 / 18:13~18:23 / Image Prompt: Tectonic map of East Asia with large arrows pressing inward on the Korean Peninsula from the Indian plate in the west and the Pacific plate in the east, faults glowing faintly orange
+
+컷 154 (P) / 경주, 포항 지진이 그 신호였어요. / 지진계 그래프, 균열 난 건물 벽 / 자막: 경주 2016, 포항 2017 / 18:23~18:27 / Image Prompt: Cracked exterior wall of a Korean apartment building with fallen bricks on the ground, overcast light, aftermath of an earthquake
+
+컷 155 (P) / 그러니까 이 땅은 조용한 땅이 아니라, 아직 조용한 땅이에요. / 검은 화면에 문장 하나만 / 자막: 조용한 땅이 아니라, 아직 조용한 땅 / 18:27~18:32 / Image Prompt: Pure black background with a single thin white horizontal line of light in the center, minimalist, cinematic void, subtle film grain
+
+
+장면 14. 클로징 (18:32~19:43)
+
+컷 156 (P) / 그러니까 이 땅의 진짜 가치는 이거예요. 신이 준 게 아니라, 망가졌던 걸 다시 살려낸 기록이 있는 땅이라는 거. / 따뜻한 톤 복귀, 숲과 갯벌 해안선 골든아워 드론 / 자막: 신이 준 게 아니라 살려낸 땅 / 18:32~18:42 / Image Prompt: Golden hour aerial shot where dense green Korean forest slopes meet a shimmering tidal flat coastline, warm hopeful light, cinematic wide shot
+
+컷 157 (P) / 숲을 없던 데서 만들어 봤고, 썩은 호수를 발전소로 바꿔 봤고, 갯벌도 반이 사라진 뒤에 남은 걸 세계유산으로 지켜냈어요. / 숲, 시화호, 갯벌 3컷 따뜻하게 재등장 / 자막: 숲 / 시화호 / 갯벌 / 18:42~18:52 / Image Prompt: Triptych of Korean landscapes in warm light, a dense pine forest, a tidal power seawall at sunset, and a golden tidal flat with birds, unified color grade
+
+컷 158 (I) / 그 세 가지를 다 해본 나라, 저는 다른 나라를 못 찾았어요. / 세계지도 위 한국만 따뜻한 빛 / 자막: 자막 없음 / 18:52~18:58 / Image Prompt: World map in soft gray with South Korea alone glowing warm gold, gentle light spreading outward
+
+컷 159 (P) / 그 미국 친구한테 이제 대답할 수 있을 것 같아요. / 카페 지도 장면 복귀 / 자막: 자막 없음 / 18:58~19:02 / Image Prompt: Same wooden cafe table with the paper map of South Korea, now a Korean hand pointing at the west coast, two coffee cups, warm late afternoon window light, shallow depth of field
+
+컷 160 (P) / 작은데 많이 들어 있는 게 아니라, 작으니까 하나도 버리지 않고 다 살려 쓴 거라고요. 그리고 아직 다 살린 건 아니라고요. / 지도 위 손이 갯벌 지역을 가리키고, 창밖 노을 / 자막: 하나도 버리지 않고 다 살려 쓴 땅 / 19:02~19:13 / Image Prompt: Close-up of a Korean hand resting on a paper map of the west coast of Korea, sunset light through a cafe window casting long warm shadows
+
+컷 161 (P) / 여러분은 우리 땅에서 가장 아까운 게 뭐라고 생각하세요. 댓글로 남겨 주시면 다음 영상에서 그 주제로 찾아보겠습니다. / 댓글 아이콘 모션, 배경은 갯벌 노을 / 자막: 댓글로 알려주세요 / 19:13~19:23 / Image Prompt: Lone fisherwoman silhouette pushing a small sled across glistening Korean mud flats at sunset, long reflection, orange and purple sky
+
+컷 162 (P) / 다음 영상에서는 이 갯벌 810제곱킬로미터가 사라지던 10년 동안 무슨 일이 있었는지, / 새만금 공사 아카이브 느낌, 트럭 행렬 / 자막: 다음 영상 / 19:23~19:32 / Image Prompt: Long line of dump trucks driving along an unfinished seawall into the sea at dusk, construction dust, 1990s documentary feel
+
+컷 163 (P) / 새만금의 진짜 이야기를 다뤄 볼게요. / 다음 영상 예고 카드, 새만금 방조제 황혼 / 자막: 다음 영상: 새만금의 진짜 이야기 / 19:32~19:36 / Image Prompt: Aerial view of the Saemangeum seawall at dusk with dramatic clouds, moody teaser atmosphere, space left on both sides for overlay elements, cinematic wide shot
+
+컷 164 (P) / 구독하시면 놓치지 않고 보실 수 있어요. 오늘도 봐 주셔서 감사합니다. / 엔드 스크린, 구독 버튼 모션 / 자막: 구독 / 19:36~19:43 / Image Prompt: Soft-focus golden tidal flat at dusk with a calm sky, large empty areas left for end-screen overlays, warm and quiet
 
 
 7단계. 업로드 정보
@@ -324,19 +518,19 @@
 
 타임라인
 0:00 훅
-1:16 산, 없던 숲을 만든 나라
-3:29 물, 20억 년 화강암이 걸러낸 물
-4:39 자리, 사계절과 조용한 땅
-5:46 동해, 미니 대양
-7:23 서해, 9미터 조차와 세계 최대 조력발전
-8:34 남해, 두 해류가 만드는 세계 최고 밀도
-9:39 대국 비교
-10:19 갯벌, 세계 5대
-11:14 갯벌이 하는 일
-13:32 유네스코, 두 번의 인정
-14:31 반전 하나, 편애받은 땅이 아니었다
-16:53 반전 둘, 아직 조용한 땅
-17:47 클로징
+1:19 산, 없던 숲을 만든 나라
+3:38 물, 20억 년 화강암이 걸러낸 물
+4:51 자리, 사계절과 조용한 땅
+6:01 동해, 미니 대양
+7:43 서해, 9미터 조차와 세계 최대 조력발전
+8:58 남해, 두 해류가 만드는 세계 최고 밀도
+10:06 대국 비교
+10:47 갯벌, 세계 5대
+11:42 갯벌이 하는 일
+14:06 유네스코, 두 번의 인정
+15:08 반전 하나, 편애받은 땅이 아니었다
+17:35 반전 둘, 아직 조용한 땅
+18:32 클로징
 
 참고 자료
 한국의 갯벌 세계유산 (링크 자리)
